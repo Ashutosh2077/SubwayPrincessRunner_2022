@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "paris_sewer_water"
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 72
+    topology: 0
+    firstVertex: 0
+    vertexCount: 21
+    localAABB:
+      m_Center: {x: 7.534027E-05, y: -172.5968, z: 89.99998}
+      m_Extent: {x: 30, y: 7.629395E-06, z: 89.99999}
+  m_Shapes:
+    vertices:
+    shapes:
+    channels:
+    fullWeights:
+  m_MeshCompression: 0
+  m_StreamCompression: 0
+  m_IsReadable: 0
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexBuffer: 00000100020000000200030004000000030004000300050006000500030006000300070006000700080007000900080007000A0009000A00070003000A0003000200060008000B000C000B0008000C0008000D000C000D000E000D000F000E000D0010000F0010000D0008001000080009000C000E001100120011000E0012000E001300140013000E0014000E000F00
+  m_Skin: []
+  m_BindPose:
+  m_VertexData:
+    m_CurrentChannels: 9
+    m_VertexCount: 21
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 420
+    _typelessdata: DC99A238C9982CC352B4A4B7000080B30000003FDBFFEFC1C9982CC352B4A4B7000080B30100803FDBFFEFC1C9982CC3F5FFEF41A4AA2A3E0100803F247B9D38C9982CC3F5FFEF41A4AA2A3E0000003F2A00F041C9982CC352B4A4B7000000B46821E2332A00F041C9982CC3F5FFEF41A0AA2A3ED81BC7332A00F041CA982CC3FBFF6F42A4AAAA3E4716AC33247B9D38CA982CC3FBFF6F42A6AAAA3E0000003F247B9D38C9982CC3FDFFB342FAFFFF3E0000003FDBFFEFC1C9982CC3FDFFB342FAFFFF3E0000803FDBFFEFC1CA982CC3FBFF6F42A6AAAA3E0000803F2A00F041C9982CC3FDFFB342F8FFFF3EB61091332A00F041C9982CC3FDFFEF42A7AA2A3F48166C33247B9D38C9982CC3FDFFEF42A8AA2A3FFFFFFF3E247B9D38C9982CC3FFFF15435255553FFFFFFF3EDBFFEFC1C9982CC3FFFF15435255553F0000803FDBFFEFC1C9982CC3FDFFEF42A8AA2A3F0000803F2A00F041C9982CC3FFFF15435155553F260B36332A00F041CA982CC3FEFF3343FDFF7F3F02000033247B9D38CA982CC3FEFF3343FEFF7F3FFFFFFF3EDBFFEFC1CA982CC3FEFF3343FEFF7F3F0000803F
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BindPoses:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Colors:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 7.534027E-05, y: -172.5968, z: 89.99998}
+    m_Extent: {x: 30, y: 7.629395E-06, z: 89.99999}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshOptimized: 0

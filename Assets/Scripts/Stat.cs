@@ -1,0 +1,37 @@
+using System;
+
+public enum Stat
+{
+	NotSet,
+	Diamond,
+	Goldbar,
+	GoldChainClock,
+	GoldChainDollar,
+	GoldSkull,
+	Headphones,
+	LpBlack,
+	TapeBlack,
+	CoinsFriends,
+	AllCoinsJetpack,
+	OwnCharacters,
+	TaskSetCompleted,
+	TaskCompleted,
+	TopRunRank1,
+	TopRunRank2,
+	TopRunRank3,
+	TopRunRank4,
+	TopRunRank5,
+	TopRunRank6,
+	TopRunRank7,
+	TopRunRank8,
+	TopRunRank9,
+	TopRunRank10,
+	TopRunRank5orBetter,
+	PickupPowerup,
+	PokeFriend,
+	KeysCollected,
+	TopRunRank0,
+	ChestesOpened,
+	TopRunFriendsBeaten,
+	WordyWeekendChallengesCompleted
+}

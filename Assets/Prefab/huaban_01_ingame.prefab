@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1790454472734960197}
+  m_IsPrefabParent: 1
+--- !u!4 &1790454472785292223
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1790454472734960197}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1.2, y: 1.2, z: 1.2}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1790454472734960197
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1790454472785292223}
+  - component: {fileID: 1790454473271831922}
+  - component: {fileID: 1790454473104059705}
+  - component: {fileID: 1790454474630786740}
+  m_Layer: 0
+  m_Name: "huaban_01_ingame"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!23 &1790454473104059705
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1790454472734960197}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: f8768e10628b4336aae3ab6dd9ddd808, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 1
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &1790454473271831922
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1790454472734960197}
+  m_Mesh: {fileID: 4300000, guid: 43f8856e505443e298f81c0c45a6ffa1, type: 2}
+--- !u!114 &1790454474630786740
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1790454472734960197}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b73579db4ca5d2c7c38e011b952f954b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  defaultHelmetAnimation: {fileID: 0}
+  runAnimations:
+  - characterAnimationClip: {fileID: 7400000, guid: 533c62a761c64edb9bb76e08d27e26d5, type: 2}
+    helmetAnimationClip: {fileID: 0}
+  superRunAnimations: []
+  landAnimations:
+  - characterAnimationClip: {fileID: 7400000, guid: ba553e1ae2d947f08bd9f8e47f733d5f, type: 2}
+    helmetAnimationClip: {fileID: 0}
+  jumpAnimations:
+  - characterAnimationClip: {fileID: 7400000, guid: f693137cdbfd43a2b98205584e562ca7, type: 2}
+    helmetAnimationClip: {fileID: 0}
+  - characterAnimationClip: {fileID: 7400000, guid: 88f89e34cec34f8283b1b7e283d6a317, type: 2}
+    helmetAnimationClip: {fileID: 0}
+  - characterAnimationClip: {fileID: 7400000, guid: 96063a7fdb884413b448ecb67e9d2a7e, type: 2}
+    helmetAnimationClip: {fileID: 0}
+  - characterAnimationClip: {fileID: 7400000, guid: 21843fe73bdf4949b60b16d354ee083a, type: 2}
+    helmetAnimationClip: {fileID: 0}
+  - characterAnimationClip: {fileID: 7400000, guid: 1839166d2d9043aaab3624a8e6b1a140, type: 2}
+    helmetAnimationClip: {fileID: 0}
+  - characterAnimationClip: {fileID: 7400000, guid: 5450644fb53f47b99ceab30282c8ff86, type: 2}
+    helmetAnimationClip: {fileID: 0}
+  - characterAnimationClip: {fileID: 7400000, guid: 5450644fb53f47b99ceab30282c8ff86, type: 2}
+    helmetAnimationClip: {fileID: 0}
+  hangtimeAnimations:
+  - characterAnimationClip: {fileID: 7400000, guid: 5ddea5b981a64d9b85830ceaa08b1589, type: 2}
+    helmetAnimationClip: {fileID: 0}
+  - characterAnimationClip: {fileID: 7400000, guid: 5ddea5b981a64d9b85830ceaa08b1589, type: 2}
+    helmetAnimationClip: {fileID: 0}
+  - characterAnimationClip: {fileID: 7400000, guid: 5ddea5b981a64d9b85830ceaa08b1589, type: 2}
+    helmetAnimationClip: {fileID: 0}
+  - characterAnimationClip: {fileID: 7400000, guid: 5ddea5b981a64d9b85830ceaa08b1589, type: 2}
+    helmetAnimationClip: {fileID: 0}
+  - characterAnimationClip: {fileID: 7400000, guid: 5ddea5b981a64d9b85830ceaa08b1589, type: 2}
+    helmetAnimationClip: {fileID: 0}
+  - characterAnimationClip: {fileID: 7400000, guid: 5ddea5b981a64d9b85830ceaa08b1589, type: 2}
+    helmetAnimationClip: {fileID: 0}
+  - characterAnimationClip: {fileID: 7400000, guid: 5ddea5b981a64d9b85830ceaa08b1589, type: 2}
+    helmetAnimationClip: {fileID: 0}
+  rollAnimations:
+  - characterAnimationClip: {fileID: 7400000, guid: 130e95090b364807b096055bc9b361b2, type: 2}
+    helmetAnimationClip: {fileID: 0}
+  dodgeLeftAnimations:
+  - characterAnimationClip: {fileID: 7400000, guid: 69c5279ee41846449ffa55691699f41a, type: 2}
+    helmetAnimationClip: {fileID: 0}
+  dodgeRightAnimations:
+  - characterAnimationClip: {fileID: 7400000, guid: 3b950cd490554e54b37c955f86252fd2, type: 2}
+    helmetAnimationClip: {fileID: 0}
+  grindAnimations:
+  - characterAnimationClip: {fileID: 7400000, guid: 7d8c31e91b314b7e887e973d95eea4b4, type: 2}
+    helmetAnimationClip: {fileID: 0}
+  grindLandAnimations:
+  - characterAnimationClip: {fileID: 7400000, guid: 780b2b587d2543938791488ecba08c60, type: 2}
+    helmetAnimationClip: {fileID: 0}
+  getOnHelmAnimations:
+  - characterAnimationClip: {fileID: 7400000, guid: 39a4c790b9de4dd6aacb89bb2b0a0d4a, type: 2}
+    helmetAnimationClip: {fileID: 0}

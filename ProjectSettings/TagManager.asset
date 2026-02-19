@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - HitMovingTrain
+  - JumpTrain
+  - DodgeTrain
+  - RollBarrier
+  - JumpBarrier
+  - HitBarrier
+  - HitTrain
+  - Ground
+  - Station
+  - Subway
+  - Underpass
+  - FallIntoWater
+  - JumpHighBarrier
+  - Wall
+  - OneWay
+  - Speedup
+  - HitRightBoundSide
+  - HitLeftBoundSide
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - LoadScreenLayer
+  - death_moving
+  - Hit
+  - Character
+  - Background
+  - HitBounceOnly
+  - Guard
+  - Particles
+  - KeepOnHelmet
+  - TutorialTrigger
+  - CELEBRATION
+  - 2DOVERLAYCLIP
+  - 2DOVERLAY
+  - 3DCLIP
+  - 2DGUI
+  - 3DGUI
+  - 3DOverlay
+  - intoWater
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: "Default"
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 70f40a626e7b4583bfe04b7744dd012b
+timeCreated: 1617700199
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 32
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "Porkys_Dynamic"
+  fontNames:
+  - RockoUltraFLF
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 
