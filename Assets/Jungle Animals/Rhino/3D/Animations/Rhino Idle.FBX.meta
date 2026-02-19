@@ -1,0 +1,1000 @@
+fileFormatVersion: 2
+guid: 5d710d5a811846c40bcd89235d32ad09
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Rhino Idle
+  - first:
+      74: 1990736622456666417
+    second: Rhino Idle 2
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.1
+    animationPositionError: 0.1
+    animationScaleError: 0.1
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Rhino Idle
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 260
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Rhino
+        weight: 1
+      - path: Rhino/Rhino Pelvis
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino L Thigh
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino L Thigh/Rhino L Calf
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino L Thigh/Rhino L Calf/Rhino L Foot
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino L Thigh/Rhino L Calf/Rhino L Foot/Rhino L
+          Toe0
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino R Thigh
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino R Thigh/Rhino R Calf
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino R Thigh/Rhino R Calf/Rhino R Foot
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino R Thigh/Rhino R Calf/Rhino R Foot/Rhino R
+          Toe0
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino L Clavicle
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino L Clavicle/Rhino
+          L UpperArm
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino L Clavicle/Rhino
+          L UpperArm/Rhino L Forearm
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino L Clavicle/Rhino
+          L UpperArm/Rhino L Forearm/Rhino L Hand
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino L Clavicle/Rhino
+          L UpperArm/Rhino L Forearm/Rhino L Hand/Rhino L Finger0
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino L Clavicle/Rhino
+          L UpperArm/Rhino L Forearm/Rhino L Hand/Rhino L Finger1
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino L Clavicle/Rhino
+          L UpperArm/Rhino L Forearm/Rhino L Hand/Rhino L Finger2
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino Jaw
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino Jaw/Rhino L Lower Mouth
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino Jaw/Rhino L Lower Mouth Corner
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino Jaw/Rhino R Lower Mouth
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino Jaw/Rhino R Lower Mouth Corner
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino Jaw/Rhino Tongue
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino Jaw/Rhino Tongue/Rhino Tongue02
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino L Ear
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino L Ear/Rhino L Ear02
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino L Eye
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino L Eyebrow
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino L Lower Eyelid
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino L Upper Eyelid
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino L Upper Mouth
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino L Upper Mouth Corner
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino R Ear
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino R Ear/Rhino R Ear02
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino R Eye
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino R Eyebrow
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino R Lower Eyelid
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino R Upper Eyelid
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino R Upper Mouth
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino R Upper Mouth Corner
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino R Clavicle
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino R Clavicle/Rhino
+          R UpperArm
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino R Clavicle/Rhino
+          R UpperArm/Rhino R Forearm
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino R Clavicle/Rhino
+          R UpperArm/Rhino R Forearm/Rhino R Hand
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino R Clavicle/Rhino
+          R UpperArm/Rhino R Forearm/Rhino R Hand/Rhino R Finger0
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino R Clavicle/Rhino
+          R UpperArm/Rhino R Forearm/Rhino R Hand/Rhino R Finger1
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino R Clavicle/Rhino
+          R UpperArm/Rhino R Forearm/Rhino R Hand/Rhino R Finger2
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Tail
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Tail/Rhino Tail02
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Tail/Rhino Tail02/Rhino Tail03
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Tail/Rhino Tail02/Rhino Tail03/Rhino Tail04
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Tail/Rhino Tail02/Rhino Tail03/Rhino Tail04/Rhino
+          Tail05
+        weight: 1
+      - path: Rhino Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: 52d409e783701e14b8e1ad47d67d276e, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rhino Idle 2
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 265
+      lastFrame: 395
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Rhino
+        weight: 1
+      - path: Rhino/Rhino Pelvis
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino L Thigh
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino L Thigh/Rhino L Calf
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino L Thigh/Rhino L Calf/Rhino L Foot
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino L Thigh/Rhino L Calf/Rhino L Foot/Rhino L
+          Toe0
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino R Thigh
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino R Thigh/Rhino R Calf
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino R Thigh/Rhino R Calf/Rhino R Foot
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino R Thigh/Rhino R Calf/Rhino R Foot/Rhino R
+          Toe0
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino L Clavicle
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino L Clavicle/Rhino
+          L UpperArm
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino L Clavicle/Rhino
+          L UpperArm/Rhino L Forearm
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino L Clavicle/Rhino
+          L UpperArm/Rhino L Forearm/Rhino L Hand
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino L Clavicle/Rhino
+          L UpperArm/Rhino L Forearm/Rhino L Hand/Rhino L Finger0
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino L Clavicle/Rhino
+          L UpperArm/Rhino L Forearm/Rhino L Hand/Rhino L Finger1
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino L Clavicle/Rhino
+          L UpperArm/Rhino L Forearm/Rhino L Hand/Rhino L Finger2
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino Jaw
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino Jaw/Rhino L Lower Mouth
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino Jaw/Rhino L Lower Mouth Corner
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino Jaw/Rhino R Lower Mouth
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino Jaw/Rhino R Lower Mouth Corner
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino Jaw/Rhino Tongue
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino Jaw/Rhino Tongue/Rhino Tongue02
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino L Ear
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino L Ear/Rhino L Ear02
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino L Eye
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino L Eyebrow
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino L Lower Eyelid
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino L Upper Eyelid
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino L Upper Mouth
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino L Upper Mouth Corner
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino R Ear
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino R Ear/Rhino R Ear02
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino R Eye
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino R Eyebrow
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino R Lower Eyelid
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino R Upper Eyelid
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino R Upper Mouth
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+          Head/Rhino R Upper Mouth Corner
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino R Clavicle
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino R Clavicle/Rhino
+          R UpperArm
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino R Clavicle/Rhino
+          R UpperArm/Rhino R Forearm
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino R Clavicle/Rhino
+          R UpperArm/Rhino R Forearm/Rhino R Hand
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino R Clavicle/Rhino
+          R UpperArm/Rhino R Forearm/Rhino R Hand/Rhino R Finger0
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino R Clavicle/Rhino
+          R UpperArm/Rhino R Forearm/Rhino R Hand/Rhino R Finger1
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino R Clavicle/Rhino
+          R UpperArm/Rhino R Forearm/Rhino R Hand/Rhino R Finger2
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Tail
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Tail/Rhino Tail02
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Tail/Rhino Tail02/Rhino Tail03
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Tail/Rhino Tail02/Rhino Tail03/Rhino Tail04
+        weight: 1
+      - path: Rhino/Rhino Pelvis/Rhino Tail/Rhino Tail02/Rhino Tail03/Rhino Tail04/Rhino
+          Tail05
+        weight: 1
+      - path: Rhino Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: 52d409e783701e14b8e1ad47d67d276e, type: 2}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Rhino Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino L Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino L Finger2
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino R Finger1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino R Finger2
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Rhino Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Rhino(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.00000046323154, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rhino Mesh
+      parentName: Rhino(Clone)
+      position: {x: -0, y: 0, z: 0.000000029528007}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rhino
+      parentName: Rhino(Clone)
+      position: {x: -2.1113006e-10, y: 0.40273872, z: -0.0048300987}
+      rotation: {x: -0.50000036, y: 0.49999964, z: 0.49999964, w: 0.50000036}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Rhino Pelvis
+      parentName: Rhino
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rhino Spine
+      parentName: Rhino Pelvis
+      position: {x: -0.055971794, y: -0.000114411116, z: 0.000000077780314}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: Rhino Spine1
+      parentName: Rhino Spine
+      position: {x: -0.14375602, y: -0.00011295974, z: -3.1330272e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Rhino Spine2
+      parentName: Rhino Spine1
+      position: {x: -0.14379352, y: -0.00011292457, z: -3.1324815e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: Rhino Neck
+      parentName: Rhino Spine2
+      position: {x: -0.14379592, y: -0.000121493336, z: -3.3698141e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.99999976, z: 1}
+    - name: Rhino Head
+      parentName: Rhino Neck
+      position: {x: -0.15490288, y: 0, z: -3.6379787e-14}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000002}
+    - name: Rhino R Upper Mouth Corner
+      parentName: Rhino Head
+      position: {x: -0.06783829, y: 0.2768058, z: -0.17326888}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1}
+    - name: Rhino Jaw
+      parentName: Rhino Head
+      position: {x: -0.1465033, y: 0.043988697, z: 0.000000062116776}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: Rhino R Lower Mouth Corner
+      parentName: Rhino Jaw
+      position: {x: -0.24038646, y: -0.00886734, z: -0.17461044}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: Rhino R Lower Mouth
+      parentName: Rhino Jaw
+      position: {x: -0.4114467, y: -0.030716322, z: -0.10065458}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: Rhino Tongue
+      parentName: Rhino Jaw
+      position: {x: -0.2272168, y: 0.04131714, z: 0.0000004747936}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1.0000001}
+    - name: Rhino Tongue02
+      parentName: Rhino Tongue
+      position: {x: -0.10785299, y: -0.00007041931, z: -1.952867e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000008, z: 1.0000002}
+    - name: Rhino L Lower Mouth
+      parentName: Rhino Jaw
+      position: {x: -0.41144672, y: -0.030716933, z: 0.10065441}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 0.9999997, z: 0.9999997}
+    - name: Rhino L Lower Mouth Corner
+      parentName: Rhino Jaw
+      position: {x: -0.24038643, y: -0.008868332, z: 0.17461042}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000006}
+    - name: Rhino R Upper Mouth
+      parentName: Rhino Head
+      position: {x: 0.020002898, y: 0.45126423, z: -0.13025436}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: Rhino R Lower Eyelid
+      parentName: Rhino Head
+      position: {x: -0.22282341, y: 0.2662909, z: -0.06719647}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 1.0000006, z: 0.9999997}
+    - name: Rhino R Upper Eyelid
+      parentName: Rhino Head
+      position: {x: -0.22281082, y: 0.2662444, z: -0.067153335}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000006, z: 0.9999993}
+    - name: Rhino L Upper Mouth
+      parentName: Rhino Head
+      position: {x: 0.020002898, y: 0.45126346, z: 0.13025685}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1.0000001}
+    - name: Rhino R Eyebrow
+      parentName: Rhino Head
+      position: {x: -0.20170195, y: 0.19449113, z: -0.049127102}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: Rhino L Eyebrow
+      parentName: Rhino Head
+      position: {x: -0.20170195, y: 0.19449084, z: 0.049128182}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1}
+    - name: Rhino R Ear
+      parentName: Rhino Head
+      position: {x: -0.45231056, y: 0.053779144, z: -0.0526798}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Rhino R Ear02
+      parentName: Rhino R Ear
+      position: {x: -0.09663124, y: -0.00007499695, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1, z: 1.0000001}
+    - name: Rhino L Upper Mouth Corner
+      parentName: Rhino Head
+      position: {x: -0.06783829, y: 0.27680483, z: 0.17327039}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1.0000002}
+    - name: Rhino L Lower Eyelid
+      parentName: Rhino Head
+      position: {x: -0.22282349, y: 0.26629055, z: 0.06719795}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.000001, z: 1}
+    - name: Rhino L Upper Eyelid
+      parentName: Rhino Head
+      position: {x: -0.22281067, y: 0.26624408, z: 0.06715481}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 1.0000004, z: 0.9999989}
+    - name: Rhino L Ear
+      parentName: Rhino Head
+      position: {x: -0.45231056, y: 0.053778857, z: 0.052680094}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Rhino L Ear02
+      parentName: Rhino L Ear
+      position: {x: -0.09663124, y: -0.00007497787, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000002}
+    - name: Rhino R Eye
+      parentName: Rhino Head
+      position: {x: -0.2226889, y: 0.2663112, z: -0.067252256}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Rhino L Eye
+      parentName: Rhino Head
+      position: {x: -0.2226889, y: 0.26631084, z: 0.06725373}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1}
+    - name: Rhino R Clavicle
+      parentName: Rhino Spine2
+      position: {x: -0.14377464, y: 0.000000076293944, z: -0.029031426}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: Rhino R UpperArm
+      parentName: Rhino R Clavicle
+      position: {x: -0.23457432, y: -0.000000007152557, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000008}
+    - name: Rhino R Forearm
+      parentName: Rhino R UpperArm
+      position: {x: -0.28156623, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000005}
+    - name: Rhino R Hand
+      parentName: Rhino R Forearm
+      position: {x: -0.13083269, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000002}
+    - name: Rhino R Finger1
+      parentName: Rhino R Hand
+      position: {x: -0.10549654, y: -0.001947937, z: 0.035767592}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 0.9999998}
+    - name: Rhino R Finger2
+      parentName: Rhino R Hand
+      position: {x: -0.10297399, y: 0.003965454, z: -0.020123253}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 1, z: 1}
+    - name: Rhino R Finger0
+      parentName: Rhino R Hand
+      position: {x: -0.0577519, y: 0.0089518735, z: 0.058323514}
+      rotation: {x: 0, y: 0.38268346, z: 0, w: 0.9238795}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+    - name: Rhino L Clavicle
+      parentName: Rhino Spine2
+      position: {x: -0.14377464, y: -0.000000085830685, z: 0.029031426}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 1, y: 0.99999994, z: 1.0000002}
+    - name: Rhino L UpperArm
+      parentName: Rhino L Clavicle
+      position: {x: -0.23457432, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: Rhino L Forearm
+      parentName: Rhino L UpperArm
+      position: {x: -0.2815662, y: -0.000000019073486, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 0.99999994, z: 1}
+    - name: Rhino L Hand
+      parentName: Rhino L Forearm
+      position: {x: -0.13083267, y: -0.000000038146972, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+      scale: {x: 1, y: 1.0000002, z: 1.0000004}
+    - name: Rhino L Finger1
+      parentName: Rhino L Hand
+      position: {x: -0.10549652, y: -0.0019480133, z: -0.03576761}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 0.99999994, z: 1.0000002}
+    - name: Rhino L Finger2
+      parentName: Rhino L Hand
+      position: {x: -0.10297401, y: 0.003965454, z: 0.02012329}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 1.000001, z: 1.0000005}
+    - name: Rhino L Finger0
+      parentName: Rhino L Hand
+      position: {x: -0.057751883, y: 0.0089518735, z: -0.058323514}
+      rotation: {x: 0, y: 0.3826835, z: 0, w: -0.9238795}
+      scale: {x: 0.9999996, y: 0.99999994, z: 1.0000006}
+    - name: Rhino R Thigh
+      parentName: Rhino Pelvis
+      position: {x: -0.0000002670288, y: -0.0000002464652, z: -0.19039474}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: Rhino R Calf
+      parentName: Rhino R Thigh
+      position: {x: -0.2433707, y: 0, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000002}
+    - name: Rhino R Foot
+      parentName: Rhino R Calf
+      position: {x: -0.091540866, y: 0.0000000047683715, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.9999997, z: 1}
+    - name: Rhino R Toe0
+      parentName: Rhino R Foot
+      position: {x: -0.062459048, y: 0.15036687, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000004}
+    - name: Rhino L Thigh
+      parentName: Rhino Pelvis
+      position: {x: 0.0000002670288, y: 0.00000028163194, z: 0.19039474}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999997}
+    - name: Rhino L Calf
+      parentName: Rhino L Thigh
+      position: {x: -0.2433707, y: -0.0000000047683715, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000004}
+    - name: Rhino L Foot
+      parentName: Rhino L Calf
+      position: {x: -0.091540866, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000004}
+    - name: Rhino L Toe0
+      parentName: Rhino L Foot
+      position: {x: -0.062459048, y: 0.15036686, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000002}
+    - name: Rhino Tail
+      parentName: Rhino Pelvis
+      position: {x: 0.043248024, y: -0.19271666, z: 0.0000004799889}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.9999999}
+    - name: Rhino Tail02
+      parentName: Rhino Tail
+      position: {x: -0.12248397, y: -0.00008522034, z: -2.3646862e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Rhino Tail03
+      parentName: Rhino Tail02
+      position: {x: -0.12248378, y: -0.00008537292, z: -2.366869e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: Rhino Tail04
+      parentName: Rhino Tail03
+      position: {x: -0.12244896, y: -0.0000849533, z: -2.3559552e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 0.99999976}
+    - name: Rhino Tail05
+      parentName: Rhino Tail04
+      position: {x: -0.10778789, y: -0.000074234005, z: -2.0587322e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000004}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: a94809498d4e19642ab796dd6eefccfb,
+    type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 2
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

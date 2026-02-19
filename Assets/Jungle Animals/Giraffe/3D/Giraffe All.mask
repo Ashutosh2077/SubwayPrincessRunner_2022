@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Giraffe All
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Giraffe
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe L Thigh
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe L Thigh/Giraffe L Calf
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe L Thigh/Giraffe L Calf/Giraffe L Foot
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe L Thigh/Giraffe L Calf/Giraffe L Foot/Giraffe
+      L Toe0
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe R Thigh
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe R Thigh/Giraffe R Calf
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe R Thigh/Giraffe R Calf/Giraffe R Foot
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe R Thigh/Giraffe R Calf/Giraffe R Foot/Giraffe
+      R Toe0
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      L Clavicle
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      L Clavicle/Giraffe L UpperArm
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      L Clavicle/Giraffe L UpperArm/Giraffe L Forearm
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      L Clavicle/Giraffe L UpperArm/Giraffe L Forearm/Giraffe L Hand
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      L Clavicle/Giraffe L UpperArm/Giraffe L Forearm/Giraffe L Hand/Giraffe L Finger0
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head/Eye Left
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head/Eye Right
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head/Giraffe Jaw
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head/Giraffe Jaw/Giraffe L LowerLip
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head/Giraffe Jaw/Giraffe R LowerLip
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head/Giraffe Jaw/Giraffe Tongue
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head/Giraffe Jaw/Giraffe Tongue/Giraffe Tongue02
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head/Giraffe Jaw/Giraffe Tongue/Giraffe Tongue02/Giraffe Tongue03
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head/Giraffe Jaw/Teeth Lower
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head/Giraffe Jaw/Tongue
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head/Giraffe L Eyebrow
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head/Giraffe L Lip
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head/Giraffe L LowerEyelid
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head/Giraffe L UpperEyelid
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head/Giraffe L UpperLip
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head/Giraffe Nose
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head/Giraffe Ponytail1
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head/Giraffe Ponytail1/Giraffe Ponytail11
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head/Giraffe Ponytail2
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head/Giraffe Ponytail2/Giraffe Ponytail21
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head/Giraffe R Eyebrow
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head/Giraffe R Lip
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head/Giraffe R LowerEyelid
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head/Giraffe R UpperEyelid
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head/Giraffe R UpperLip
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      Neck/Giraffe Head/Teeth Upper
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      R Clavicle
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      R Clavicle/Giraffe R UpperArm
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      R Clavicle/Giraffe R UpperArm/Giraffe R Forearm
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      R Clavicle/Giraffe R UpperArm/Giraffe R Forearm/Giraffe R Hand
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Spine/Giraffe Spine1/Giraffe Spine2/Giraffe
+      R Clavicle/Giraffe R UpperArm/Giraffe R Forearm/Giraffe R Hand/Giraffe R Finger0
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Tail
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Tail/Giraffe Tail1
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Tail/Giraffe Tail1/Giraffe Tail2
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Tail/Giraffe Tail1/Giraffe Tail2/Giraffe
+      Tail3
+    m_Weight: 1
+  - m_Path: Giraffe/Giraffe Pelvis/Giraffe Tail/Giraffe Tail1/Giraffe Tail2/Giraffe
+      Tail3/Giraffe Tail4
+    m_Weight: 1
+  - m_Path: Giraffe Mesh
+    m_Weight: 1

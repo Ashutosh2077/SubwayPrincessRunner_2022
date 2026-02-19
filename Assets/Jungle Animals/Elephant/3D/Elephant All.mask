@@ -1,0 +1,193 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Elephant All
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Elephant
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant L Thigh
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant L Thigh/Elephant L Calf
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant L Thigh/Elephant L Calf/Elephant L
+      Foot
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant L Thigh/Elephant L Calf/Elephant L
+      Foot/Elephant L Toe0
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant R Thigh
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant R Thigh/Elephant R Calf
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant R Thigh/Elephant R Calf/Elephant R
+      Foot
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant R Thigh/Elephant R Calf/Elephant R
+      Foot/Elephant R Toe0
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      L Clavicle
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      L Clavicle/Elephant L UpperArm
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      L Clavicle/Elephant L UpperArm/Elephant L Forearm
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      L Clavicle/Elephant L UpperArm/Elephant L Forearm/Elephant L Hand
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      L Clavicle/Elephant L UpperArm/Elephant L Forearm/Elephant L Hand/Elephant
+      L Finger0
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant Jaw
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant Jaw/Elephant L LowerLip
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant Jaw/Elephant R LowerLip
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant Jaw/Elephant Tongue
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant Jaw/Elephant Tongue/Elephant Tongue02
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant Jaw/Elephant Tongue/Elephant Tongue02/Elephant
+      Tongue03
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant Jaw/Teeth Lower
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant Jaw/Tongue
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant L Eyebrow
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant L Lip
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant L LowerEyelid
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant L UpperEyelid
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant L UpperLip
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant Nose
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant Nose/Elephant Nose02
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant Nose/Elephant Nose02/Elephant Nose03
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant Nose/Elephant Nose02/Elephant Nose03/Elephant Nose04
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant Nose/Elephant Nose02/Elephant Nose03/Elephant Nose04/Elephant
+      Nose05
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant Ponytail1
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant Ponytail1/Elephant Ponytail11
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant Ponytail1/Elephant Ponytail11/Elephant Ponytail12
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant Ponytail2
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant Ponytail2/Elephant Ponytail21
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant Ponytail2/Elephant Ponytail21/Elephant Ponytail22
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant R Eyebrow
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant R Lip
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant R LowerEyelid
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant R UpperEyelid
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Elephant R UpperLip
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Eye Left
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Eye Right
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      Neck/Elephant Head/Teeth Upper
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      R Clavicle
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      R Clavicle/Elephant R UpperArm
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      R Clavicle/Elephant R UpperArm/Elephant R Forearm
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      R Clavicle/Elephant R UpperArm/Elephant R Forearm/Elephant R Hand
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Spine/Elephant Spine1/Elephant Spine2/Elephant
+      R Clavicle/Elephant R UpperArm/Elephant R Forearm/Elephant R Hand/Elephant
+      R Finger0
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Tail
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Tail/Elephant Tail1
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Tail/Elephant Tail1/Elephant Tail2
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Tail/Elephant Tail1/Elephant Tail2/Elephant
+      Tail3
+    m_Weight: 1
+  - m_Path: Elephant/Elephant Pelvis/Elephant Tail/Elephant Tail1/Elephant Tail2/Elephant
+      Tail3/Elephant Tail4
+    m_Weight: 1
+  - m_Path: Elephant Mesh
+    m_Weight: 1

@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hippo All
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Hippo
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo L Thigh
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L Toe0
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo R Thigh
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R Toe0
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo L Clavicle
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo L Clavicle/Hippo
+      L UpperArm
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo L Clavicle/Hippo
+      L UpperArm/Hippo L Forearm
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo L Clavicle/Hippo
+      L UpperArm/Hippo L Forearm/Hippo L Hand
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo L Clavicle/Hippo
+      L UpperArm/Hippo L Forearm/Hippo L Hand/Hippo L Finger0
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo L Clavicle/Hippo
+      L UpperArm/Hippo L Forearm/Hippo L Hand/Hippo L Finger1
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo Neck
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo Neck/Hippo
+      Head
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo Neck/Hippo
+      Head/Eye Left
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo Neck/Hippo
+      Head/Eye Right
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo Neck/Hippo
+      Head/Hippo Jaw
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo Neck/Hippo
+      Head/Hippo Jaw/Hippo L LowerLip
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo Neck/Hippo
+      Head/Hippo Jaw/Hippo R LowerLip
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo Neck/Hippo
+      Head/Hippo Jaw/Hippo Tongue
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo Neck/Hippo
+      Head/Hippo Jaw/Hippo Tongue/Hippo Tongue02
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo Neck/Hippo
+      Head/Hippo Jaw/Hippo Tongue/Hippo Tongue02/Hippo Tongue03
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo Neck/Hippo
+      Head/Hippo L Eyebrow
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo Neck/Hippo
+      Head/Hippo L Lip
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo Neck/Hippo
+      Head/Hippo L LowerEyelid
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo Neck/Hippo
+      Head/Hippo L UpperEyelid
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo Neck/Hippo
+      Head/Hippo L UpperLip
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo Neck/Hippo
+      Head/Hippo Nose
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo Neck/Hippo
+      Head/Hippo Ponytail1
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo Neck/Hippo
+      Head/Hippo Ponytail1/Hippo Ponytail11
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo Neck/Hippo
+      Head/Hippo Ponytail2
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo Neck/Hippo
+      Head/Hippo Ponytail2/Hippo Ponytail21
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo Neck/Hippo
+      Head/Hippo R Eyebrow
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo Neck/Hippo
+      Head/Hippo R Lip
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo Neck/Hippo
+      Head/Hippo R LowerEyelid
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo Neck/Hippo
+      Head/Hippo R UpperEyelid
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo Neck/Hippo
+      Head/Hippo R UpperLip
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo R Clavicle
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo R Clavicle/Hippo
+      R UpperArm
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo R Clavicle/Hippo
+      R UpperArm/Hippo R Forearm
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo R Clavicle/Hippo
+      R UpperArm/Hippo R Forearm/Hippo R Hand
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo R Clavicle/Hippo
+      R UpperArm/Hippo R Forearm/Hippo R Hand/Hippo R Finger0
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Spine/Hippo Spine1/Hippo Spine2/Hippo R Clavicle/Hippo
+      R UpperArm/Hippo R Forearm/Hippo R Hand/Hippo R Finger1
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Tail
+    m_Weight: 1
+  - m_Path: Hippo/Hippo Pelvis/Hippo Tail/Hippo Tail02
+    m_Weight: 1
+  - m_Path: Hippo Mesh
+    m_Weight: 1

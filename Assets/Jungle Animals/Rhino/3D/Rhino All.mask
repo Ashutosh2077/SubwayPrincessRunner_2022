@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Rhino All
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Rhino
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino L Thigh
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino L Thigh/Rhino L Calf
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino L Thigh/Rhino L Calf/Rhino L Foot
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino L Thigh/Rhino L Calf/Rhino L Foot/Rhino L Toe0
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino R Thigh
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino R Thigh/Rhino R Calf
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino R Thigh/Rhino R Calf/Rhino R Foot
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino R Thigh/Rhino R Calf/Rhino R Foot/Rhino R Toe0
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino L Clavicle
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino L Clavicle/Rhino
+      L UpperArm
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino L Clavicle/Rhino
+      L UpperArm/Rhino L Forearm
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino L Clavicle/Rhino
+      L UpperArm/Rhino L Forearm/Rhino L Hand
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino L Clavicle/Rhino
+      L UpperArm/Rhino L Forearm/Rhino L Hand/Rhino L Finger0
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino L Clavicle/Rhino
+      L UpperArm/Rhino L Forearm/Rhino L Hand/Rhino L Finger1
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino L Clavicle/Rhino
+      L UpperArm/Rhino L Forearm/Rhino L Hand/Rhino L Finger2
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+      Head
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+      Head/Rhino Jaw
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+      Head/Rhino Jaw/Rhino L Lower Mouth
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+      Head/Rhino Jaw/Rhino L Lower Mouth Corner
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+      Head/Rhino Jaw/Rhino R Lower Mouth
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+      Head/Rhino Jaw/Rhino R Lower Mouth Corner
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+      Head/Rhino Jaw/Rhino Tongue
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+      Head/Rhino Jaw/Rhino Tongue/Rhino Tongue02
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+      Head/Rhino L Ear
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+      Head/Rhino L Ear/Rhino L Ear02
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+      Head/Rhino L Eye
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+      Head/Rhino L Eyebrow
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+      Head/Rhino L Lower Eyelid
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+      Head/Rhino L Upper Eyelid
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+      Head/Rhino L Upper Mouth
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+      Head/Rhino L Upper Mouth Corner
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+      Head/Rhino R Ear
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+      Head/Rhino R Ear/Rhino R Ear02
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+      Head/Rhino R Eye
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+      Head/Rhino R Eyebrow
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+      Head/Rhino R Lower Eyelid
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+      Head/Rhino R Upper Eyelid
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+      Head/Rhino R Upper Mouth
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino Neck/Rhino
+      Head/Rhino R Upper Mouth Corner
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino R Clavicle
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino R Clavicle/Rhino
+      R UpperArm
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino R Clavicle/Rhino
+      R UpperArm/Rhino R Forearm
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino R Clavicle/Rhino
+      R UpperArm/Rhino R Forearm/Rhino R Hand
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino R Clavicle/Rhino
+      R UpperArm/Rhino R Forearm/Rhino R Hand/Rhino R Finger0
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino R Clavicle/Rhino
+      R UpperArm/Rhino R Forearm/Rhino R Hand/Rhino R Finger1
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Spine/Rhino Spine1/Rhino Spine2/Rhino R Clavicle/Rhino
+      R UpperArm/Rhino R Forearm/Rhino R Hand/Rhino R Finger2
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Tail
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Tail/Rhino Tail02
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Tail/Rhino Tail02/Rhino Tail03
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Tail/Rhino Tail02/Rhino Tail03/Rhino Tail04
+    m_Weight: 1
+  - m_Path: Rhino/Rhino Pelvis/Rhino Tail/Rhino Tail02/Rhino Tail03/Rhino Tail04/Rhino
+      Tail05
+    m_Weight: 1
+  - m_Path: Rhino Mesh
+    m_Weight: 1

@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Lion All
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Lion
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion L Thigh
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion L Thigh/Lion L Calf
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion L Thigh/Lion L Calf/Lion L Foot
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion L Thigh/Lion L Calf/Lion L Foot/Lion L Toe0
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion R Thigh
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion R Thigh/Lion R Calf
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion R Thigh/Lion R Calf/Lion R Foot
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion R Thigh/Lion R Calf/Lion R Foot/Lion R Toe0
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion L Clavicle
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion L Clavicle/Lion
+      L UpperArm
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion L Clavicle/Lion
+      L UpperArm/Lion L Forearm
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion L Clavicle/Lion
+      L UpperArm/Lion L Forearm/Lion L Hand
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion L Clavicle/Lion
+      L UpperArm/Lion L Forearm/Lion L Hand/Lion L Finger0
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion L Clavicle/Lion
+      L UpperArm/Lion L Forearm/Lion L Hand/Lion L Finger1
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck/Lion Head
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck/Lion Head/Eye
+      Left
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck/Lion Head/Eye
+      Right
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck/Lion Head/Lion
+      Jaw
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck/Lion Head/Lion
+      Jaw/Lion L LowerLip
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck/Lion Head/Lion
+      Jaw/Lion R LowerLip
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck/Lion Head/Lion
+      Jaw/Lion Tongue
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck/Lion Head/Lion
+      Jaw/Lion Tongue/Lion Tongue02
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck/Lion Head/Lion
+      Jaw/Lion Tongue/Lion Tongue02/Lion Tongue03
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck/Lion Head/Lion
+      Jaw/Tongue
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck/Lion Head/Lion
+      L Eyebrow
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck/Lion Head/Lion
+      L Lip
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck/Lion Head/Lion
+      L LowerEyelid
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck/Lion Head/Lion
+      L UpperEyelid
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck/Lion Head/Lion
+      L UpperLip
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck/Lion Head/Lion
+      Mane
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck/Lion Head/Lion
+      Nose
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck/Lion Head/Lion
+      Ponytail1
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck/Lion Head/Lion
+      Ponytail1/Lion Ponytail11
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck/Lion Head/Lion
+      Ponytail2
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck/Lion Head/Lion
+      Ponytail2/Lion Ponytail21
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck/Lion Head/Lion
+      R Eyebrow
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck/Lion Head/Lion
+      R Lip
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck/Lion Head/Lion
+      R LowerEyelid
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck/Lion Head/Lion
+      R UpperEyelid
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion Neck/Lion Head/Lion
+      R UpperLip
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion R Clavicle
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion R Clavicle/Lion
+      R UpperArm
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion R Clavicle/Lion
+      R UpperArm/Lion R Forearm
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion R Clavicle/Lion
+      R UpperArm/Lion R Forearm/Lion R Hand
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion R Clavicle/Lion
+      R UpperArm/Lion R Forearm/Lion R Hand/Lion R Finger0
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Spine/Lion Spine1/Lion Spine2/Lion R Clavicle/Lion
+      R UpperArm/Lion R Forearm/Lion R Hand/Lion R Finger1
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Tail
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Tail/Lion Tail1
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Tail/Lion Tail1/Lion Tail2
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Tail/Lion Tail1/Lion Tail2/Lion Tail3
+    m_Weight: 1
+  - m_Path: Lion/Lion Pelvis/Lion Tail/Lion Tail1/Lion Tail2/Lion Tail3/Lion Tail4
+    m_Weight: 1
+  - m_Path: Lion Mesh
+    m_Weight: 1
