@@ -1,257 +1,749 @@
 fileFormatVersion: 2
 guid: 42a1a492d8beb5d41a015b907d3b16f6
-timeCreated: 1553699734
-licenseType: Free
 ModelImporter:
-  serializedVersion: 22
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: Bip01
-    100004: Bip01 Head
-    100006: Bip01 Neck
-    100008: Bip01 Pelvis
-    100010: Bip01 Spine
-    100012: Bip01 Spine1
-    100014: Eye Left
-    100016: Eye Left001
-    100018: Hippo
-    100020: Eye Right
-    100022: Bip01 Jaw
-    100024: Bip01 L Calf
-    100026: Bip01 L Clavicle
-    100028: Bip01 L Ear 1
-    100030: Bip01 L Ear 2
-    100032: Bip01 L Eyebrow
-    100034: Bip01 L Finger0
-    100036: Bip01 L Finger1
-    100038: Bip01 L Foot
-    100040: Bip01 L Forearm
-    100042: Bip01 L Hand
-    100044: Bip01 L Lip
-    100046: Bip01 L LowerEyelid
-    100048: Bip01 L LowerLip
-    100050: Bip01 L Thigh
-    100052: Bip01 L Toe0
-    100054: Bip01 L UpperArm
-    100056: Bip01 L UpperEyelid
-    100058: Bip01 L UpperLip
-    100060: Bip01 Nose
-    100062: Bip01 R Calf
-    100064: Bip01 R Clavicle
-    100066: Bip01 R Ear 1
-    100068: Bip01 R Ear 2
-    100070: Bip01 R Eyebrow
-    100072: Bip01 R Finger0
-    100074: Bip01 R Finger1
-    100076: Bip01 R Foot
-    100078: Bip01 R Forearm
-    100080: Bip01 R Hand
-    100082: Bip01 R Lip
-    100084: Bip01 R LowerEyelid
-    100086: Bip01 R LowerLip
-    100088: Bip01 R Thigh
-    100090: Bip01 R Toe0
-    100092: Bip01 R UpperArm
-    100094: Bip01 R UpperEyelid
-    100096: Bip01 R UpperLip
-    100098: Bip01 Tail
-    100100: Bip01 Tail1
-    100102: Bip01 Tongue 1
-    100104: Bip01 Tongue 2
-    100106: Bip01 Tongue 3
-    100108: Hippo 1
-    100110: Hippo Head
-    100112: Hippo Jaw
-    100114: Hippo L Calf
-    100116: Hippo L Clavicle
-    100118: Hippo L Eyebrow
-    100120: Hippo L Finger0
-    100122: Hippo L Finger1
-    100124: Hippo L Foot
-    100126: Hippo L Forearm
-    100128: Hippo L Hand
-    100130: Hippo L Lip
-    100132: Hippo L LowerEyelid
-    100134: Hippo L LowerLip
-    100136: Hippo L Thigh
-    100138: Hippo L Toe0
-    100140: Hippo L UpperArm
-    100142: Hippo L UpperEyelid
-    100144: Hippo L UpperLip
-    100146: Hippo Neck
-    100148: Hippo Nose
-    100150: Hippo Pelvis
-    100152: Hippo Ponytail1
-    100154: Hippo Ponytail11
-    100156: Hippo Ponytail2
-    100158: Hippo Ponytail21
-    100160: Hippo R Calf
-    100162: Hippo R Clavicle
-    100164: Hippo R Eyebrow
-    100166: Hippo R Finger0
-    100168: Hippo R Finger1
-    100170: Hippo R Foot
-    100172: Hippo R Forearm
-    100174: Hippo R Hand
-    100176: Hippo R Lip
-    100178: Hippo R LowerEyelid
-    100180: Hippo R LowerLip
-    100182: Hippo R Thigh
-    100184: Hippo R Toe0
-    100186: Hippo R UpperArm
-    100188: Hippo R UpperEyelid
-    100190: Hippo R UpperLip
-    100192: Hippo Spine
-    100194: Hippo Spine1
-    100196: Hippo Spine2
-    100198: Hippo Tail
-    100200: Hippo Tail02
-    100202: Hippo Tongue
-    100204: Hippo Tongue02
-    100206: Hippo Tongue03
-    100208: Hippo Mesh
-    400000: //RootNode
-    400002: Bip01
-    400004: Bip01 Head
-    400006: Bip01 Neck
-    400008: Bip01 Pelvis
-    400010: Bip01 Spine
-    400012: Bip01 Spine1
-    400014: Eye Left
-    400016: Eye Left001
-    400018: Hippo
-    400020: Eye Right
-    400022: Bip01 Jaw
-    400024: Bip01 L Calf
-    400026: Bip01 L Clavicle
-    400028: Bip01 L Ear 1
-    400030: Bip01 L Ear 2
-    400032: Bip01 L Eyebrow
-    400034: Bip01 L Finger0
-    400036: Bip01 L Finger1
-    400038: Bip01 L Foot
-    400040: Bip01 L Forearm
-    400042: Bip01 L Hand
-    400044: Bip01 L Lip
-    400046: Bip01 L LowerEyelid
-    400048: Bip01 L LowerLip
-    400050: Bip01 L Thigh
-    400052: Bip01 L Toe0
-    400054: Bip01 L UpperArm
-    400056: Bip01 L UpperEyelid
-    400058: Bip01 L UpperLip
-    400060: Bip01 Nose
-    400062: Bip01 R Calf
-    400064: Bip01 R Clavicle
-    400066: Bip01 R Ear 1
-    400068: Bip01 R Ear 2
-    400070: Bip01 R Eyebrow
-    400072: Bip01 R Finger0
-    400074: Bip01 R Finger1
-    400076: Bip01 R Foot
-    400078: Bip01 R Forearm
-    400080: Bip01 R Hand
-    400082: Bip01 R Lip
-    400084: Bip01 R LowerEyelid
-    400086: Bip01 R LowerLip
-    400088: Bip01 R Thigh
-    400090: Bip01 R Toe0
-    400092: Bip01 R UpperArm
-    400094: Bip01 R UpperEyelid
-    400096: Bip01 R UpperLip
-    400098: Bip01 Tail
-    400100: Bip01 Tail1
-    400102: Bip01 Tongue 1
-    400104: Bip01 Tongue 2
-    400106: Bip01 Tongue 3
-    400108: Hippo 1
-    400110: Hippo Head
-    400112: Hippo Jaw
-    400114: Hippo L Calf
-    400116: Hippo L Clavicle
-    400118: Hippo L Eyebrow
-    400120: Hippo L Finger0
-    400122: Hippo L Finger1
-    400124: Hippo L Foot
-    400126: Hippo L Forearm
-    400128: Hippo L Hand
-    400130: Hippo L Lip
-    400132: Hippo L LowerEyelid
-    400134: Hippo L LowerLip
-    400136: Hippo L Thigh
-    400138: Hippo L Toe0
-    400140: Hippo L UpperArm
-    400142: Hippo L UpperEyelid
-    400144: Hippo L UpperLip
-    400146: Hippo Neck
-    400148: Hippo Nose
-    400150: Hippo Pelvis
-    400152: Hippo Ponytail1
-    400154: Hippo Ponytail11
-    400156: Hippo Ponytail2
-    400158: Hippo Ponytail21
-    400160: Hippo R Calf
-    400162: Hippo R Clavicle
-    400164: Hippo R Eyebrow
-    400166: Hippo R Finger0
-    400168: Hippo R Finger1
-    400170: Hippo R Foot
-    400172: Hippo R Forearm
-    400174: Hippo R Hand
-    400176: Hippo R Lip
-    400178: Hippo R LowerEyelid
-    400180: Hippo R LowerLip
-    400182: Hippo R Thigh
-    400184: Hippo R Toe0
-    400186: Hippo R UpperArm
-    400188: Hippo R UpperEyelid
-    400190: Hippo R UpperLip
-    400192: Hippo Spine
-    400194: Hippo Spine1
-    400196: Hippo Spine2
-    400198: Hippo Tail
-    400200: Hippo Tail02
-    400202: Hippo Tongue
-    400204: Hippo Tongue02
-    400206: Hippo Tongue03
-    400208: Hippo Mesh
-    2300000: //RootNode
-    2300002: Eye Left
-    2300004: Eye Left001
-    2300006: Hippo
-    2300008: Eye Right
-    2300010: Hippo 1
-    3300000: //RootNode
-    3300002: Eye Left
-    3300004: Eye Left001
-    3300006: Hippo
-    3300008: Eye Right
-    3300010: Hippo 1
-    4300000: Hippo
-    4300002: Eye Left
-    4300004: Eye Left001
-    4300006: Eye Right
-    4300008: Hippo Mesh
-    7400000: Hippo Idle
-    7400002: Hippo Run
-    7400004: Hippo Walk
-    7400006: Hippo Idle 2
-    7400008: Hippo Talk
-    7400010: Hippo Jump Up
-    7400012: Hippo Fall
-    7400014: Hippo Land
-    7400016: Hippo Rolling
-    7400018: Hippo Sleep
-    7400020: Hippo Success
-    7400022: Hippo Failure
-    7400024: Hippo Run In Place
-    7400026: Hippo Walk In Place
-    7400028: Hippo Roll In Place
-    9500000: //RootNode
-    11100000: //RootNode
-    13700000: Hippo
-    13700002: Hippo 1
-    13700004: Hippo Mesh
+  serializedVersion: 24200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Bip01
+  - first:
+      1: 100004
+    second: Bip01 Head
+  - first:
+      1: 100006
+    second: Bip01 Neck
+  - first:
+      1: 100008
+    second: Bip01 Pelvis
+  - first:
+      1: 100010
+    second: Bip01 Spine
+  - first:
+      1: 100012
+    second: Bip01 Spine1
+  - first:
+      1: 100014
+    second: Eye Left
+  - first:
+      1: 100016
+    second: Eye Left001
+  - first:
+      1: 100018
+    second: Hippo
+  - first:
+      1: 100020
+    second: Eye Right
+  - first:
+      1: 100022
+    second: Bip01 Jaw
+  - first:
+      1: 100024
+    second: Bip01 L Calf
+  - first:
+      1: 100026
+    second: Bip01 L Clavicle
+  - first:
+      1: 100028
+    second: Bip01 L Ear 1
+  - first:
+      1: 100030
+    second: Bip01 L Ear 2
+  - first:
+      1: 100032
+    second: Bip01 L Eyebrow
+  - first:
+      1: 100034
+    second: Bip01 L Finger0
+  - first:
+      1: 100036
+    second: Bip01 L Finger1
+  - first:
+      1: 100038
+    second: Bip01 L Foot
+  - first:
+      1: 100040
+    second: Bip01 L Forearm
+  - first:
+      1: 100042
+    second: Bip01 L Hand
+  - first:
+      1: 100044
+    second: Bip01 L Lip
+  - first:
+      1: 100046
+    second: Bip01 L LowerEyelid
+  - first:
+      1: 100048
+    second: Bip01 L LowerLip
+  - first:
+      1: 100050
+    second: Bip01 L Thigh
+  - first:
+      1: 100052
+    second: Bip01 L Toe0
+  - first:
+      1: 100054
+    second: Bip01 L UpperArm
+  - first:
+      1: 100056
+    second: Bip01 L UpperEyelid
+  - first:
+      1: 100058
+    second: Bip01 L UpperLip
+  - first:
+      1: 100060
+    second: Bip01 Nose
+  - first:
+      1: 100062
+    second: Bip01 R Calf
+  - first:
+      1: 100064
+    second: Bip01 R Clavicle
+  - first:
+      1: 100066
+    second: Bip01 R Ear 1
+  - first:
+      1: 100068
+    second: Bip01 R Ear 2
+  - first:
+      1: 100070
+    second: Bip01 R Eyebrow
+  - first:
+      1: 100072
+    second: Bip01 R Finger0
+  - first:
+      1: 100074
+    second: Bip01 R Finger1
+  - first:
+      1: 100076
+    second: Bip01 R Foot
+  - first:
+      1: 100078
+    second: Bip01 R Forearm
+  - first:
+      1: 100080
+    second: Bip01 R Hand
+  - first:
+      1: 100082
+    second: Bip01 R Lip
+  - first:
+      1: 100084
+    second: Bip01 R LowerEyelid
+  - first:
+      1: 100086
+    second: Bip01 R LowerLip
+  - first:
+      1: 100088
+    second: Bip01 R Thigh
+  - first:
+      1: 100090
+    second: Bip01 R Toe0
+  - first:
+      1: 100092
+    second: Bip01 R UpperArm
+  - first:
+      1: 100094
+    second: Bip01 R UpperEyelid
+  - first:
+      1: 100096
+    second: Bip01 R UpperLip
+  - first:
+      1: 100098
+    second: Bip01 Tail
+  - first:
+      1: 100100
+    second: Bip01 Tail1
+  - first:
+      1: 100102
+    second: Bip01 Tongue 1
+  - first:
+      1: 100104
+    second: Bip01 Tongue 2
+  - first:
+      1: 100106
+    second: Bip01 Tongue 3
+  - first:
+      1: 100108
+    second: Hippo 1
+  - first:
+      1: 100110
+    second: Hippo Head
+  - first:
+      1: 100112
+    second: Hippo Jaw
+  - first:
+      1: 100114
+    second: Hippo L Calf
+  - first:
+      1: 100116
+    second: Hippo L Clavicle
+  - first:
+      1: 100118
+    second: Hippo L Eyebrow
+  - first:
+      1: 100120
+    second: Hippo L Finger0
+  - first:
+      1: 100122
+    second: Hippo L Finger1
+  - first:
+      1: 100124
+    second: Hippo L Foot
+  - first:
+      1: 100126
+    second: Hippo L Forearm
+  - first:
+      1: 100128
+    second: Hippo L Hand
+  - first:
+      1: 100130
+    second: Hippo L Lip
+  - first:
+      1: 100132
+    second: Hippo L LowerEyelid
+  - first:
+      1: 100134
+    second: Hippo L LowerLip
+  - first:
+      1: 100136
+    second: Hippo L Thigh
+  - first:
+      1: 100138
+    second: Hippo L Toe0
+  - first:
+      1: 100140
+    second: Hippo L UpperArm
+  - first:
+      1: 100142
+    second: Hippo L UpperEyelid
+  - first:
+      1: 100144
+    second: Hippo L UpperLip
+  - first:
+      1: 100146
+    second: Hippo Neck
+  - first:
+      1: 100148
+    second: Hippo Nose
+  - first:
+      1: 100150
+    second: Hippo Pelvis
+  - first:
+      1: 100152
+    second: Hippo Ponytail1
+  - first:
+      1: 100154
+    second: Hippo Ponytail11
+  - first:
+      1: 100156
+    second: Hippo Ponytail2
+  - first:
+      1: 100158
+    second: Hippo Ponytail21
+  - first:
+      1: 100160
+    second: Hippo R Calf
+  - first:
+      1: 100162
+    second: Hippo R Clavicle
+  - first:
+      1: 100164
+    second: Hippo R Eyebrow
+  - first:
+      1: 100166
+    second: Hippo R Finger0
+  - first:
+      1: 100168
+    second: Hippo R Finger1
+  - first:
+      1: 100170
+    second: Hippo R Foot
+  - first:
+      1: 100172
+    second: Hippo R Forearm
+  - first:
+      1: 100174
+    second: Hippo R Hand
+  - first:
+      1: 100176
+    second: Hippo R Lip
+  - first:
+      1: 100178
+    second: Hippo R LowerEyelid
+  - first:
+      1: 100180
+    second: Hippo R LowerLip
+  - first:
+      1: 100182
+    second: Hippo R Thigh
+  - first:
+      1: 100184
+    second: Hippo R Toe0
+  - first:
+      1: 100186
+    second: Hippo R UpperArm
+  - first:
+      1: 100188
+    second: Hippo R UpperEyelid
+  - first:
+      1: 100190
+    second: Hippo R UpperLip
+  - first:
+      1: 100192
+    second: Hippo Spine
+  - first:
+      1: 100194
+    second: Hippo Spine1
+  - first:
+      1: 100196
+    second: Hippo Spine2
+  - first:
+      1: 100198
+    second: Hippo Tail
+  - first:
+      1: 100200
+    second: Hippo Tail02
+  - first:
+      1: 100202
+    second: Hippo Tongue
+  - first:
+      1: 100204
+    second: Hippo Tongue02
+  - first:
+      1: 100206
+    second: Hippo Tongue03
+  - first:
+      1: 100208
+    second: Hippo Mesh
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Bip01
+  - first:
+      4: 400004
+    second: Bip01 Head
+  - first:
+      4: 400006
+    second: Bip01 Neck
+  - first:
+      4: 400008
+    second: Bip01 Pelvis
+  - first:
+      4: 400010
+    second: Bip01 Spine
+  - first:
+      4: 400012
+    second: Bip01 Spine1
+  - first:
+      4: 400014
+    second: Eye Left
+  - first:
+      4: 400016
+    second: Eye Left001
+  - first:
+      4: 400018
+    second: Hippo
+  - first:
+      4: 400020
+    second: Eye Right
+  - first:
+      4: 400022
+    second: Bip01 Jaw
+  - first:
+      4: 400024
+    second: Bip01 L Calf
+  - first:
+      4: 400026
+    second: Bip01 L Clavicle
+  - first:
+      4: 400028
+    second: Bip01 L Ear 1
+  - first:
+      4: 400030
+    second: Bip01 L Ear 2
+  - first:
+      4: 400032
+    second: Bip01 L Eyebrow
+  - first:
+      4: 400034
+    second: Bip01 L Finger0
+  - first:
+      4: 400036
+    second: Bip01 L Finger1
+  - first:
+      4: 400038
+    second: Bip01 L Foot
+  - first:
+      4: 400040
+    second: Bip01 L Forearm
+  - first:
+      4: 400042
+    second: Bip01 L Hand
+  - first:
+      4: 400044
+    second: Bip01 L Lip
+  - first:
+      4: 400046
+    second: Bip01 L LowerEyelid
+  - first:
+      4: 400048
+    second: Bip01 L LowerLip
+  - first:
+      4: 400050
+    second: Bip01 L Thigh
+  - first:
+      4: 400052
+    second: Bip01 L Toe0
+  - first:
+      4: 400054
+    second: Bip01 L UpperArm
+  - first:
+      4: 400056
+    second: Bip01 L UpperEyelid
+  - first:
+      4: 400058
+    second: Bip01 L UpperLip
+  - first:
+      4: 400060
+    second: Bip01 Nose
+  - first:
+      4: 400062
+    second: Bip01 R Calf
+  - first:
+      4: 400064
+    second: Bip01 R Clavicle
+  - first:
+      4: 400066
+    second: Bip01 R Ear 1
+  - first:
+      4: 400068
+    second: Bip01 R Ear 2
+  - first:
+      4: 400070
+    second: Bip01 R Eyebrow
+  - first:
+      4: 400072
+    second: Bip01 R Finger0
+  - first:
+      4: 400074
+    second: Bip01 R Finger1
+  - first:
+      4: 400076
+    second: Bip01 R Foot
+  - first:
+      4: 400078
+    second: Bip01 R Forearm
+  - first:
+      4: 400080
+    second: Bip01 R Hand
+  - first:
+      4: 400082
+    second: Bip01 R Lip
+  - first:
+      4: 400084
+    second: Bip01 R LowerEyelid
+  - first:
+      4: 400086
+    second: Bip01 R LowerLip
+  - first:
+      4: 400088
+    second: Bip01 R Thigh
+  - first:
+      4: 400090
+    second: Bip01 R Toe0
+  - first:
+      4: 400092
+    second: Bip01 R UpperArm
+  - first:
+      4: 400094
+    second: Bip01 R UpperEyelid
+  - first:
+      4: 400096
+    second: Bip01 R UpperLip
+  - first:
+      4: 400098
+    second: Bip01 Tail
+  - first:
+      4: 400100
+    second: Bip01 Tail1
+  - first:
+      4: 400102
+    second: Bip01 Tongue 1
+  - first:
+      4: 400104
+    second: Bip01 Tongue 2
+  - first:
+      4: 400106
+    second: Bip01 Tongue 3
+  - first:
+      4: 400108
+    second: Hippo 1
+  - first:
+      4: 400110
+    second: Hippo Head
+  - first:
+      4: 400112
+    second: Hippo Jaw
+  - first:
+      4: 400114
+    second: Hippo L Calf
+  - first:
+      4: 400116
+    second: Hippo L Clavicle
+  - first:
+      4: 400118
+    second: Hippo L Eyebrow
+  - first:
+      4: 400120
+    second: Hippo L Finger0
+  - first:
+      4: 400122
+    second: Hippo L Finger1
+  - first:
+      4: 400124
+    second: Hippo L Foot
+  - first:
+      4: 400126
+    second: Hippo L Forearm
+  - first:
+      4: 400128
+    second: Hippo L Hand
+  - first:
+      4: 400130
+    second: Hippo L Lip
+  - first:
+      4: 400132
+    second: Hippo L LowerEyelid
+  - first:
+      4: 400134
+    second: Hippo L LowerLip
+  - first:
+      4: 400136
+    second: Hippo L Thigh
+  - first:
+      4: 400138
+    second: Hippo L Toe0
+  - first:
+      4: 400140
+    second: Hippo L UpperArm
+  - first:
+      4: 400142
+    second: Hippo L UpperEyelid
+  - first:
+      4: 400144
+    second: Hippo L UpperLip
+  - first:
+      4: 400146
+    second: Hippo Neck
+  - first:
+      4: 400148
+    second: Hippo Nose
+  - first:
+      4: 400150
+    second: Hippo Pelvis
+  - first:
+      4: 400152
+    second: Hippo Ponytail1
+  - first:
+      4: 400154
+    second: Hippo Ponytail11
+  - first:
+      4: 400156
+    second: Hippo Ponytail2
+  - first:
+      4: 400158
+    second: Hippo Ponytail21
+  - first:
+      4: 400160
+    second: Hippo R Calf
+  - first:
+      4: 400162
+    second: Hippo R Clavicle
+  - first:
+      4: 400164
+    second: Hippo R Eyebrow
+  - first:
+      4: 400166
+    second: Hippo R Finger0
+  - first:
+      4: 400168
+    second: Hippo R Finger1
+  - first:
+      4: 400170
+    second: Hippo R Foot
+  - first:
+      4: 400172
+    second: Hippo R Forearm
+  - first:
+      4: 400174
+    second: Hippo R Hand
+  - first:
+      4: 400176
+    second: Hippo R Lip
+  - first:
+      4: 400178
+    second: Hippo R LowerEyelid
+  - first:
+      4: 400180
+    second: Hippo R LowerLip
+  - first:
+      4: 400182
+    second: Hippo R Thigh
+  - first:
+      4: 400184
+    second: Hippo R Toe0
+  - first:
+      4: 400186
+    second: Hippo R UpperArm
+  - first:
+      4: 400188
+    second: Hippo R UpperEyelid
+  - first:
+      4: 400190
+    second: Hippo R UpperLip
+  - first:
+      4: 400192
+    second: Hippo Spine
+  - first:
+      4: 400194
+    second: Hippo Spine1
+  - first:
+      4: 400196
+    second: Hippo Spine2
+  - first:
+      4: 400198
+    second: Hippo Tail
+  - first:
+      4: 400200
+    second: Hippo Tail02
+  - first:
+      4: 400202
+    second: Hippo Tongue
+  - first:
+      4: 400204
+    second: Hippo Tongue02
+  - first:
+      4: 400206
+    second: Hippo Tongue03
+  - first:
+      4: 400208
+    second: Hippo Mesh
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      23: 2300002
+    second: Eye Left
+  - first:
+      23: 2300004
+    second: Eye Left001
+  - first:
+      23: 2300006
+    second: Hippo
+  - first:
+      23: 2300008
+    second: Eye Right
+  - first:
+      23: 2300010
+    second: Hippo 1
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      33: 3300002
+    second: Eye Left
+  - first:
+      33: 3300004
+    second: Eye Left001
+  - first:
+      33: 3300006
+    second: Hippo
+  - first:
+      33: 3300008
+    second: Eye Right
+  - first:
+      33: 3300010
+    second: Hippo 1
+  - first:
+      43: 4300000
+    second: Hippo
+  - first:
+      43: 4300002
+    second: Eye Left
+  - first:
+      43: 4300004
+    second: Eye Left001
+  - first:
+      43: 4300006
+    second: Eye Right
+  - first:
+      43: 4300008
+    second: Hippo Mesh
+  - first:
+      74: 7400000
+    second: Hippo Idle
+  - first:
+      74: 7400002
+    second: Hippo Run
+  - first:
+      74: 7400004
+    second: Hippo Walk
+  - first:
+      74: 7400006
+    second: Hippo Idle 2
+  - first:
+      74: 7400008
+    second: Hippo Talk
+  - first:
+      74: 7400010
+    second: Hippo Jump Up
+  - first:
+      74: 7400012
+    second: Hippo Fall
+  - first:
+      74: 7400014
+    second: Hippo Land
+  - first:
+      74: 7400016
+    second: Hippo Rolling
+  - first:
+      74: 7400018
+    second: Hippo Sleep
+  - first:
+      74: 7400020
+    second: Hippo Success
+  - first:
+      74: 7400022
+    second: Hippo Failure
+  - first:
+      74: 7400024
+    second: Hippo Run In Place
+  - first:
+      74: 7400026
+    second: Hippo Walk In Place
+  - first:
+      74: 7400028
+    second: Hippo Roll In Place
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Hippo
+  - first:
+      137: 13700002
+    second: Hippo 1
+  - first:
+      137: 13700004
+    second: Hippo Mesh
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -284,7 +776,7 @@ ModelImporter:
       name: Transparent
     second: {fileID: 2100000, guid: dd74bc0c3c3aef84d9222e7178fe3394, type: 2}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 0
@@ -293,14 +785,14 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
-    rigImportErrors: 
-    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 3
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -312,6 +804,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Hippo Idle
       takeName: Take 001
+      internalID: 0
       firstFrame: 5
       lastFrame: 65
       wrapMode: 2
@@ -346,7 +839,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L Toe0
+      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh
         weight: 1
@@ -354,7 +848,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R Toe0
+      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo Spine
         weight: 1
@@ -482,6 +977,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Hippo Run
       takeName: Take 001
+      internalID: 0
       firstFrame: 70
       lastFrame: 90
       wrapMode: 2
@@ -516,7 +1012,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L Toe0
+      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh
         weight: 1
@@ -524,7 +1021,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R Toe0
+      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo Spine
         weight: 1
@@ -652,6 +1150,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Hippo Walk
       takeName: Take 001
+      internalID: 0
       firstFrame: 100
       lastFrame: 120
       wrapMode: 2
@@ -686,7 +1185,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L Toe0
+      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh
         weight: 1
@@ -694,7 +1194,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R Toe0
+      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo Spine
         weight: 1
@@ -822,6 +1323,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Hippo Idle 2
       takeName: Take 001
+      internalID: 0
       firstFrame: 130
       lastFrame: 190
       wrapMode: 2
@@ -856,7 +1358,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L Toe0
+      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh
         weight: 1
@@ -864,7 +1367,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R Toe0
+      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo Spine
         weight: 1
@@ -992,6 +1496,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Hippo Talk
       takeName: Take 001
+      internalID: 0
       firstFrame: 200
       lastFrame: 260
       wrapMode: 2
@@ -1026,7 +1531,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L Toe0
+      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh
         weight: 1
@@ -1034,7 +1540,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R Toe0
+      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo Spine
         weight: 1
@@ -1162,6 +1669,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Hippo Jump Up
       takeName: Take 001
+      internalID: 0
       firstFrame: 270
       lastFrame: 300
       wrapMode: 2
@@ -1196,7 +1704,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L Toe0
+      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh
         weight: 1
@@ -1204,7 +1713,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R Toe0
+      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo Spine
         weight: 1
@@ -1332,6 +1842,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Hippo Fall
       takeName: Take 001
+      internalID: 0
       firstFrame: 310
       lastFrame: 340
       wrapMode: 2
@@ -1366,7 +1877,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L Toe0
+      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh
         weight: 1
@@ -1374,7 +1886,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R Toe0
+      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo Spine
         weight: 1
@@ -1502,6 +2015,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Hippo Land
       takeName: Take 001
+      internalID: 0
       firstFrame: 350
       lastFrame: 365
       wrapMode: 0
@@ -1536,7 +2050,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L Toe0
+      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh
         weight: 1
@@ -1544,7 +2059,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R Toe0
+      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo Spine
         weight: 1
@@ -1672,6 +2188,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Hippo Rolling
       takeName: Take 001
+      internalID: 0
       firstFrame: 370
       lastFrame: 390
       wrapMode: 2
@@ -1706,7 +2223,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L Toe0
+      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh
         weight: 1
@@ -1714,7 +2232,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R Toe0
+      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo Spine
         weight: 1
@@ -1842,6 +2361,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Hippo Sleep
       takeName: Take 001
+      internalID: 0
       firstFrame: 400
       lastFrame: 460
       wrapMode: 2
@@ -1876,7 +2396,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L Toe0
+      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh
         weight: 1
@@ -1884,7 +2405,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R Toe0
+      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo Spine
         weight: 1
@@ -2012,6 +2534,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Hippo Success
       takeName: Take 001
+      internalID: 0
       firstFrame: 470
       lastFrame: 505
       wrapMode: 2
@@ -2046,7 +2569,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L Toe0
+      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh
         weight: 1
@@ -2054,7 +2578,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R Toe0
+      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo Spine
         weight: 1
@@ -2182,6 +2707,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Hippo Failure
       takeName: Take 001
+      internalID: 0
       firstFrame: 510
       lastFrame: 560
       wrapMode: 2
@@ -2216,7 +2742,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L Toe0
+      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh
         weight: 1
@@ -2224,7 +2751,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R Toe0
+      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo Spine
         weight: 1
@@ -2352,6 +2880,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Hippo Run In Place
       takeName: Take 001
+      internalID: 0
       firstFrame: 570
       lastFrame: 590
       wrapMode: 0
@@ -2386,7 +2915,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L Toe0
+      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh
         weight: 1
@@ -2394,7 +2924,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R Toe0
+      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo Spine
         weight: 1
@@ -2522,6 +3053,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Hippo Walk In Place
       takeName: Take 001
+      internalID: 0
       firstFrame: 600
       lastFrame: 620
       wrapMode: 0
@@ -2556,7 +3088,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L Toe0
+      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh
         weight: 1
@@ -2564,7 +3097,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R Toe0
+      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo Spine
         weight: 1
@@ -2692,6 +3226,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Hippo Roll In Place
       takeName: Take 001
+      internalID: 0
       firstFrame: 630
       lastFrame: 650
       wrapMode: 0
@@ -2726,7 +3261,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L Toe0
+      - path: Hippo/Hippo Pelvis/Hippo L Thigh/Hippo L Calf/Hippo L Foot/Hippo L
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh
         weight: 1
@@ -2734,7 +3270,8 @@ ModelImporter:
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot
         weight: 1
-      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R Toe0
+      - path: Hippo/Hippo Pelvis/Hippo R Thigh/Hippo R Calf/Hippo R Foot/Hippo R
+          Toe0
         weight: 1
       - path: Hippo/Hippo Pelvis/Hippo Spine
         weight: 1
@@ -2862,35 +3399,55 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 8
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
     importVisibility: 0
     importBlendShapes: 1
     importCameras: 0
     importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
     indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human:
     - boneName: Hippo Pelvis
       humanName: Hips
@@ -3108,7 +3665,7 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
     - name: Hippo
       parentName: Hippo(Clone)
-      position: {x: 8.379433e-10, y: 0.2658857, z: -0.0008300862}
+      position: {x: 6.703547e-11, y: 0.021270856, z: -0.000066406894}
       rotation: {x: -0.50000036, y: 0.49999967, z: 0.49999967, w: 0.50000036}
       scale: {x: 0.99999994, y: 0.99999994, z: 1}
     - name: Hippo Pelvis
@@ -3118,252 +3675,252 @@ ModelImporter:
       scale: {x: 1.0000004, y: 1, z: 1.0000004}
     - name: Hippo Spine
       parentName: Hippo Pelvis
-      position: {x: -0.08797487, y: -0.0001531753, z: 0.00000012221601}
+      position: {x: -0.0070379893, y: -0.000012254023, z: 0.00000000977728}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 0.9999994, y: 0.9999997, z: 0.9999996}
     - name: Hippo Spine1
       parentName: Hippo Spine
-      position: {x: -0.19240245, y: -0.00015237025, z: -4.2219453e-10}
+      position: {x: -0.015392195, y: -0.00001218962, z: -3.3775562e-11}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000004, y: 1.0000002, z: 1}
     - name: Hippo Spine2
       parentName: Hippo Spine1
-      position: {x: -0.19238365, y: -0.00015316486, z: -4.244248e-10}
+      position: {x: -0.015390691, y: -0.000012253188, z: -3.3953982e-11}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 0.9999998, y: 1.0000001, z: 1}
     - name: Hippo L Clavicle
       parentName: Hippo Spine2
-      position: {x: -0.13577232, y: -0.043128155, z: 0.07915693}
+      position: {x: -0.010861785, y: -0.0034502523, z: 0.006332554}
       rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
       scale: {x: 1, y: 1, z: 1}
     - name: Hippo L UpperArm
       parentName: Hippo L Clavicle
-      position: {x: -0.1627501, y: 0, z: 0}
+      position: {x: -0.013020007, y: 0, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000001, y: 1.0000011, z: 1.0000007}
     - name: Hippo L Forearm
       parentName: Hippo L UpperArm
-      position: {x: -0.17394345, y: 0.0000000023841857, z: 0}
+      position: {x: -0.013915475, y: 1.9073486e-10, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000004, y: 0.9999999, z: 1.0000006}
     - name: Hippo L Hand
       parentName: Hippo L Forearm
-      position: {x: -0.15109126, y: 0.0000000047683715, z: 0.000000076293944}
+      position: {x: -0.0120873, y: 3.8146972e-10, z: 0.0000000061035155}
       rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
       scale: {x: 1, y: 1.0000019, z: 1.0000024}
     - name: Hippo L Finger0
       parentName: Hippo L Hand
-      position: {x: -0.06507935, y: 0.012253265, z: -0.056595817}
+      position: {x: -0.0052063474, y: 0.0009802611, z: -0.004527665}
       rotation: {x: 0, y: 0.3826835, z: 0, w: -0.9238795}
       scale: {x: 1, y: 1.0000004, z: 1.0000004}
     - name: Hippo L Finger1
       parentName: Hippo L Hand
-      position: {x: -0.112560004, y: 0.0060474393, z: -0.007125863}
+      position: {x: -0.009004801, y: 0.00048379513, z: -0.000570069}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000001, y: 1.0000013, z: 1.0000015}
     - name: Hippo Neck
       parentName: Hippo Spine2
-      position: {x: -0.1332174, y: -0.0026890372, z: -0.0000000024994642}
+      position: {x: -0.0106573915, y: -0.00021512297, z: -1.9995713e-10}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 0.99999994, y: 0.99999994, z: 1}
     - name: Hippo Head
       parentName: Hippo Neck
-      position: {x: -0.09017196, y: 0.036838513, z: 0.00000006987644}
+      position: {x: -0.007213757, y: 0.0029470809, z: 0.0000000055901155}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.000001, y: 1.0000006, z: 1}
     - name: Eye Left
       parentName: Hippo Head
-      position: {x: -0.34892073, y: 0.10045837, z: 0.042042248}
+      position: {x: -0.027913658, y: 0.008036669, z: 0.0033633797}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.1161001, y: 1.1160996, z: 1.1160997}
     - name: Eye Right
       parentName: Hippo Head
-      position: {x: -0.34892073, y: 0.10045849, z: -0.042039942}
+      position: {x: -0.027913658, y: 0.008036679, z: -0.0033631953}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.1161001, y: 1.1160996, z: 1.1160997}
     - name: Hippo Nose
       parentName: Hippo Head
-      position: {x: -0.17087974, y: 0.1989382, z: 0.00000015851433}
+      position: {x: -0.013670378, y: 0.015915057, z: 0.000000012681146}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 0.99999946, y: 0.9999999, z: 0.99999946}
     - name: Hippo L UpperLip
       parentName: Hippo Head
-      position: {x: -0.054829787, y: 0.5557935, z: 0.24117064}
+      position: {x: -0.004386383, y: 0.04446348, z: 0.019293651}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000005, y: 1.0000006, z: 1.0000006}
     - name: Hippo L Lip
       parentName: Hippo Head
-      position: {x: -0.20308052, y: 0.06268663, z: 0.21319954}
+      position: {x: -0.016246442, y: 0.0050149304, z: 0.017055962}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 0.99999994, y: 1.0000005, z: 1.0000004}
     - name: Hippo Jaw
       parentName: Hippo Head
-      position: {x: -0.08762252, y: 0.02733509, z: -0.00000007517367}
+      position: {x: -0.007009802, y: 0.002186807, z: -0.000000006013894}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000002, y: 1.0000005, z: 1.0000001}
     - name: Hippo L LowerLip
       parentName: Hippo Jaw
-      position: {x: -0.37937042, y: -0.06946037, z: 0.12175955}
+      position: {x: -0.030349633, y: -0.0055568293, z: 0.009740763}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000005, y: 1.0000004, z: 1.0000002}
     - name: Hippo R LowerLip
       parentName: Hippo Jaw
-      position: {x: -0.37937036, y: -0.06945976, z: -0.12175993}
+      position: {x: -0.030349629, y: -0.0055567804, z: -0.009740794}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000006, y: 1.0000004, z: 1.0000002}
     - name: Hippo Tongue
       parentName: Hippo Jaw
-      position: {x: -0.082659245, y: -0.030162811, z: 0.0000004135431}
+      position: {x: -0.0066127395, y: -0.002413025, z: 0.000000033083445}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.000001, y: 1.0000011, z: 1.0000006}
     - name: Hippo Tongue02
       parentName: Hippo Tongue
-      position: {x: -0.08778024, y: -0.00006973266, z: 0.0000027287006}
+      position: {x: -0.007022419, y: -0.0000055786127, z: 0.00000021829604}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000005, y: 1.0000006, z: 1.0000004}
     - name: Hippo Tongue03
       parentName: Hippo Tongue02
-      position: {x: -0.08777738, y: -0.00006996155, z: 0}
+      position: {x: -0.0070221904, y: -0.0000055969235, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000006, y: 1.000001, z: 1.0000008}
     - name: Hippo L LowerEyelid
       parentName: Hippo Head
-      position: {x: -0.31003997, y: 0.17145078, z: 0.07172269}
+      position: {x: -0.024803197, y: 0.013716062, z: 0.0057378146}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000005, y: 1.0000005, z: 1.0000006}
     - name: Hippo L Eyebrow
       parentName: Hippo Head
-      position: {x: -0.48148933, y: 0.104003504, z: 0.028187612}
+      position: {x: -0.038519144, y: 0.00832028, z: 0.002255009}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1.0000002, z: 0.9999997}
     - name: Hippo L UpperEyelid
       parentName: Hippo Head
-      position: {x: -0.39714774, y: 0.16713607, z: 0.06820859}
+      position: {x: -0.03177182, y: 0.0133708855, z: 0.005456687}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000008, y: 1.0000012, z: 1.0000006}
     - name: Hippo R Eyebrow
       parentName: Hippo Head
-      position: {x: -0.48148933, y: 0.10400365, z: -0.02818705}
+      position: {x: -0.038519144, y: 0.008320292, z: -0.0022549639}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.000002, y: 1.0000007, z: 1.0000008}
     - name: Hippo Ponytail1
       parentName: Hippo Head
-      position: {x: -0.37491873, y: -0.0958782, z: 0.11664116}
+      position: {x: -0.029993497, y: -0.007670256, z: 0.0093312925}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000004, y: 1.0000005, z: 1.0000006}
     - name: Hippo Ponytail11
       parentName: Hippo Ponytail1
-      position: {x: -0.09653873, y: -0.00007499695, z: -0.000011291504}
+      position: {x: -0.007723098, y: -0.0000059997556, z: -0.0000009033203}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000002, y: 0.9999997, z: 1.0000001}
     - name: Hippo R UpperLip
       parentName: Hippo Head
-      position: {x: -0.05482971, y: 0.55579484, z: -0.24116752}
+      position: {x: -0.0043863766, y: 0.044463586, z: -0.019293401}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000005, y: 1.0000006, z: 1.0000006}
     - name: Hippo R UpperEyelid
       parentName: Hippo Head
-      position: {x: -0.39714774, y: 0.16713646, z: -0.068207674}
+      position: {x: -0.03177182, y: 0.013370916, z: -0.005456614}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000004, y: 1.0000012, z: 1.0000007}
     - name: Hippo Ponytail2
       parentName: Hippo Head
-      position: {x: -0.37491873, y: -0.09587755, z: -0.1166417}
+      position: {x: -0.029993497, y: -0.0076702037, z: -0.009331336}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000004, y: 1.0000006, z: 1.0000005}
     - name: Hippo Ponytail21
       parentName: Hippo Ponytail2
-      position: {x: -0.09653873, y: -0.0000749588, z: 0.000011215209}
+      position: {x: -0.007723098, y: -0.0000059967037, z: 0.0000008972167}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000012, y: 0.9999998, z: 1.0000008}
     - name: Hippo R Lip
       parentName: Hippo Head
-      position: {x: -0.20308052, y: 0.062687814, z: -0.21319915}
+      position: {x: -0.016246442, y: 0.005015025, z: -0.017055932}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000005, y: 1.0000004, z: 1.0000002}
     - name: Hippo R LowerEyelid
       parentName: Hippo Head
-      position: {x: -0.31003997, y: 0.17145117, z: -0.07172174}
+      position: {x: -0.024803197, y: 0.013716093, z: -0.005737739}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000011, y: 1.000001, z: 1.0000008}
     - name: Hippo R Clavicle
       parentName: Hippo Spine2
-      position: {x: -0.13577232, y: -0.043127716, z: -0.079157166}
+      position: {x: -0.010861785, y: -0.0034502172, z: -0.006332573}
       rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
       scale: {x: 1, y: 1, z: 1}
     - name: Hippo R UpperArm
       parentName: Hippo R Clavicle
-      position: {x: -0.1627501, y: 0.000000009536743, z: 0}
+      position: {x: -0.013020007, y: 7.6293943e-10, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000012, y: 1.000001, z: 1.0000008}
     - name: Hippo R Forearm
       parentName: Hippo R UpperArm
-      position: {x: -0.17394339, y: 0.0000000047683715, z: 0}
+      position: {x: -0.013915471, y: 3.8146972e-10, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000005, y: 0.99999994, z: 1.0000002}
     - name: Hippo R Hand
       parentName: Hippo R Forearm
-      position: {x: -0.15109119, y: 0.0000000047683715, z: -0.000000076293944}
+      position: {x: -0.012087295, y: 3.8146972e-10, z: -0.0000000061035155}
       rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
       scale: {x: 1.0000012, y: 1.0000017, z: 1}
     - name: Hippo R Finger0
       parentName: Hippo R Hand
-      position: {x: -0.06507935, y: 0.012253265, z: 0.05659581}
+      position: {x: -0.0052063474, y: 0.0009802611, z: 0.0045276647}
       rotation: {x: 0, y: 0.38268346, z: 0, w: 0.9238795}
       scale: {x: 0.9999998, y: 0.9999995, z: 0.9999994}
     - name: Hippo R Finger1
       parentName: Hippo R Hand
-      position: {x: -0.11256004, y: 0.0060474393, z: 0.007125866}
+      position: {x: -0.009004803, y: 0.00048379513, z: 0.0005700693}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000008, y: 1.0000006, z: 1.0000005}
     - name: Hippo L Thigh
       parentName: Hippo Pelvis
-      position: {x: 0.00000028610228, y: 0.00000029571353, z: 0.20486464}
+      position: {x: 0.000000022888182, y: 0.000000023657082, z: 0.01638917}
       rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
       scale: {x: 1.000001, y: 1.0000005, z: 1.000001}
     - name: Hippo L Calf
       parentName: Hippo L Thigh
-      position: {x: -0.11295353, y: -0.0000000047683715, z: 0}
+      position: {x: -0.009036282, y: -3.8146972e-10, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 0.9999996, y: 0.99999994, z: 0.99999994}
     - name: Hippo L Foot
       parentName: Hippo L Calf
-      position: {x: -0.07907607, y: 0, z: 0}
+      position: {x: -0.006326085, y: 0, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000006, y: 1.0000007, z: 1.0000008}
     - name: Hippo L Toe0
       parentName: Hippo L Foot
-      position: {x: -0.07094349, y: 0.16128998, z: 0}
+      position: {x: -0.005675479, y: 0.012903198, z: 0}
       rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
       scale: {x: 0.99999994, y: 0.9999997, z: 0.9999998}
     - name: Hippo Tail
       parentName: Hippo Pelvis
-      position: {x: -0.08646421, y: -0.31859612, z: 0.0000010124297}
+      position: {x: -0.0069171367, y: -0.02548769, z: 0.000000080994376}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000004, y: 1.0000002, z: 1.0000004}
     - name: Hippo Tail02
       parentName: Hippo Tail
-      position: {x: -0.11802614, y: -0.00009391784, z: -2.606248e-10}
+      position: {x: -0.009442091, y: -0.000007513427, z: -2.0849983e-11}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000002, y: 1, z: 1.0000005}
     - name: Hippo R Thigh
       parentName: Hippo Pelvis
-      position: {x: -0.00000028610228, y: -0.00000027246773, z: -0.20486464}
+      position: {x: -0.000000022888182, y: -0.000000021797417, z: -0.01638917}
       rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
       scale: {x: 1.000001, y: 1.0000007, z: 1.0000008}
     - name: Hippo R Calf
       parentName: Hippo R Thigh
-      position: {x: -0.11295354, y: -0.000000009536743, z: 0}
+      position: {x: -0.009036283, y: -7.6293943e-10, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000004, y: 1.0000001, z: 1.0000004}
     - name: Hippo R Foot
       parentName: Hippo R Calf
-      position: {x: -0.07907607, y: -0.0000000047683715, z: 0}
+      position: {x: -0.006326085, y: -3.8146972e-10, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000002, y: 1.0000004, z: 1.0000001}
     - name: Hippo R Toe0
       parentName: Hippo R Foot
-      position: {x: -0.07094349, y: 0.16128996, z: 0.000000019073486}
+      position: {x: -0.005675479, y: 0.012903197, z: 0.0000000015258789}
       rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
       scale: {x: 0.9999996, y: 0.99999994, z: 0.99999976}
     - name: Hippo 1
@@ -3378,14 +3935,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 0.08
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 1
     hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 3
   humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

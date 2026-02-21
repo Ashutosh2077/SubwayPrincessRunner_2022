@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Tiger
+  m_Name: Crocodile_Clothed_Royal
   m_Shader: {fileID: 45, guid: 0000000000000000f000000000000000, type: 0}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -27,11 +27,15 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: b7809e4cb14cf0d45a6901c2f7763ea6, type: 3}
+        m_Texture: {fileID: 2800000, guid: b81af47f3de75584383f5f452e4f9563, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 135622a2e78c6f8458b82101a1bb4b2a, type: 3}
+        m_Texture: {fileID: 2800000, guid: 59b3a8a457c1c1245a36aad8f937d1de, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cube:
+        m_Texture: {fileID: 8900000, guid: dc9d2f53d4f6f754d9f1b0a402051234, type: 2}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -47,11 +51,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
-        m_Texture: {fileID: 2800000, guid: b7809e4cb14cf0d45a6901c2f7763ea6, type: 3}
+        m_Texture: {fileID: 2800000, guid: 9e821de3b870548e889d06bd43b8c74e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: b7809e4cb14cf0d45a6901c2f7763ea6, type: 3}
+        m_Texture: {fileID: 2800000, guid: 9e821de3b870548e889d06bd43b8c74e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -99,7 +103,7 @@ Material:
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
     - _GlossMapScale: 1
-    - _Glossiness: 0.304
+    - _Glossiness: 0
     - _GlossyReflections: 1
     - _Metallic: 0
     - _Mode: 0
@@ -107,7 +111,8 @@ Material:
     - _Parallax: 0.02
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Smoothness: 0.304
+    - _Shininess: 0.131
+    - _Smoothness: 0.568
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -119,11 +124,12 @@ Material:
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _EmissionColor: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 1}
-    - _SpecColor: {r: 0.102941155, g: 0.078719705, b: 0.078719705, a: 1}
+    - _EmissionColor: {r: 0.4528302, g: 0.4528302, b: 0.4528302, a: 1}
+    - _ReflectColor: {r: 0.11029412, g: 0.27687633, b: 0.44117647, a: 0.5}
+    - _SpecColor: {r: 0.0467128, g: 0.13235295, b: 0.12172176, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &2553821520903648617
+--- !u!114 &395117588113199658
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
