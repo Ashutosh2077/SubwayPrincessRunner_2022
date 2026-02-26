@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 3921ce2e1b800cd4eaed62b832420a0e
 ModelImporter:
-  serializedVersion: 21300
+  serializedVersion: 24200
   internalIDToNameTable: []
   externalObjects: {}
   materials:
@@ -16,8 +16,6 @@ ModelImporter:
     optimizeGameObjects: 0
     removeConstantScaleCurves: 1
     motionNodeName: 
-    rigImportErrors: 
-    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
@@ -35,11 +33,12 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 9
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
+    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -57,6 +56,9 @@ ModelImporter:
     maxBonesPerVertex: 4
     minBoneWeight: 0.001
     optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
     meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
@@ -67,6 +69,7 @@ ModelImporter:
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -264,7 +267,7 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
     - name: Girl Mesh
       parentName: Girl 1(Clone)
-      position: {x: 0.0000000017191386, y: 0, z: 0}
+      position: {x: 1.5472247e-10, y: 0, z: 0}
       rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
       scale: {x: 1, y: 1, z: 1}
     - name: Root
@@ -274,7 +277,7 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
     - name: Girl 1
       parentName: Root
-      position: {x: -0, y: -0.015655058, z: 0.5369797}
+      position: {x: -0, y: -0.0014089551, z: 0.04832817}
       rotation: {x: 0, y: 0, z: 0.7071063, w: 0.70710725}
       scale: {x: 0.99999994, y: 0.99999994, z: 1}
     - name: Girl 1 Pelvis
@@ -284,322 +287,322 @@ ModelImporter:
       scale: {x: 1.0000001, y: 1, z: 1}
     - name: Girl 1 L Skirt Back
       parentName: Girl 1 Pelvis
-      position: {x: -0.009262047, y: -0.07689685, z: 0.10723868}
+      position: {x: -0.00083358417, y: -0.006920716, z: 0.009651481}
       rotation: {x: -0.00000041723246, y: 0.0000004768371, z: 0.95063686, w: 0.31030574}
       scale: {x: 1, y: 0.9999999, z: 1}
     - name: Girl 1 L Skirt Front
       parentName: Girl 1 Pelvis
-      position: {x: 0.013119087, y: 0.05307394, z: 0.108395845}
+      position: {x: 0.0011807177, y: 0.0047766543, z: 0.009755625}
       rotation: {x: 0.00000005960465, y: 0.00000017881396, z: -0.98861456, w: 0.15047033}
       scale: {x: 1.0000001, y: 1, z: 1.0000001}
     - name: Girl 1 L Thigh
       parentName: Girl 1 Pelvis
-      position: {x: 0.000000114440915, y: 0.00000012516975, z: 0.07323156}
+      position: {x: 0.000000010299682, y: 0.000000011265277, z: 0.0065908404}
       rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
       scale: {x: 1.0000005, y: 1.0000002, z: 1.0000005}
     - name: Girl 1 L Calf
       parentName: Girl 1 L Thigh
-      position: {x: -0.22637308, y: -0.0000000047683715, z: 0}
+      position: {x: -0.020373575, y: -4.291534e-10, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000005, y: 1.0000002, z: 1.0000002}
     - name: Girl 1 L Foot
       parentName: Girl 1 L Calf
-      position: {x: -0.22077712, y: 0, z: 0.000000009536743}
+      position: {x: -0.01986994, y: 0, z: 8.583068e-10}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
     - name: Girl 1 L Toe0
       parentName: Girl 1 L Foot
-      position: {x: -0.08500287, y: 0.109395005, z: 0}
+      position: {x: -0.007650258, y: 0.00984555, z: 0}
       rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
       scale: {x: 1.0000001, y: 1, z: 1.0000001}
     - name: Girl 1 R Skirt Back
       parentName: Girl 1 Pelvis
-      position: {x: -0.009262351, y: -0.076897144, z: -0.10723845}
+      position: {x: -0.0008336116, y: -0.006920743, z: -0.00965146}
       rotation: {x: -0.00000041723246, y: 0.0000004768371, z: 0.95063686, w: 0.31030574}
       scale: {x: 1.0000001, y: 0.9999997, z: 1}
     - name: Girl 1 R Skirt Front
       parentName: Girl 1 Pelvis
-      position: {x: 0.013118744, y: 0.053073645, z: -0.10839603}
+      position: {x: 0.0011806869, y: 0.0047766278, z: -0.009755642}
       rotation: {x: 0.00000005960465, y: 0.00000017881396, z: -0.98861456, w: 0.15047033}
       scale: {x: 1.0000006, y: 1.0000006, z: 1.0000002}
     - name: Girl 1 R Thigh
       parentName: Girl 1 Pelvis
-      position: {x: -0.000000114440915, y: -0.000000077486035, z: -0.07323156}
+      position: {x: -0.000000010299682, y: -0.000000006973743, z: -0.0065908404}
       rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
       scale: {x: 1.0000004, y: 1.0000002, z: 1.0000004}
     - name: Girl 1 R Calf
       parentName: Girl 1 R Thigh
-      position: {x: -0.22637308, y: 0, z: 0}
+      position: {x: -0.020373575, y: 0, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
     - name: Girl 1 R Foot
       parentName: Girl 1 R Calf
-      position: {x: -0.22077712, y: -0.000000009536743, z: 0.000000009536743}
+      position: {x: -0.01986994, y: -8.583068e-10, z: 8.583068e-10}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 0.9999998, y: 1, z: 0.9999998}
     - name: Girl 1 R Toe0
       parentName: Girl 1 R Foot
-      position: {x: -0.08500286, y: 0.10939499, z: 0.000000009536743}
+      position: {x: -0.007650257, y: 0.009845548, z: 8.583068e-10}
       rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
       scale: {x: 1.0000006, y: 1.0000001, z: 1.0000005}
     - name: Girl 1 Spine
       parentName: Girl 1 Pelvis
-      position: {x: -0.059621885, y: -0.00007153034, z: 0.00000008278279}
+      position: {x: -0.0053659696, y: -0.0000064377305, z: 0.000000007450451}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: Girl 1 Spine1
       parentName: Girl 1 Spine
-      position: {x: -0.089857176, y: -0.00007114768, z: -1.973376e-10}
+      position: {x: -0.008087145, y: -0.000006403291, z: -1.7760383e-11}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 0.9999999, y: 0.9999998, z: 0.9999999}
     - name: Girl 1 Spine2
       parentName: Girl 1 Spine1
-      position: {x: -0.0898539, y: -0.00007071495, z: -1.9612344e-10}
+      position: {x: -0.008086851, y: -0.0000063643456, z: -1.7651108e-11}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 0.99999976, y: 1, z: 0.99999994}
     - name: Girl 1 L Clavicle
       parentName: Girl 1 Spine2
-      position: {x: -0.069694445, y: -0.03928276, z: 0.024994886}
+      position: {x: -0.0062725, y: -0.0035354483, z: 0.0022495396}
       rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
       scale: {x: 1.0000001, y: 1.0000006, z: 1.0000006}
     - name: Girl 1 L UpperArm
       parentName: Girl 1 L Clavicle
-      position: {x: -0.11944104, y: 0.000000019073486, z: 0.000000076293944}
+      position: {x: -0.010749693, y: 0.0000000017166136, z: 0.0000000068664545}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000002, y: 1.0000005, z: 1.0000002}
     - name: Girl 1 L Forearm
       parentName: Girl 1 L UpperArm
-      position: {x: -0.15553531, y: 0.000000019073486, z: 0}
+      position: {x: -0.013998177, y: 0.0000000017166136, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1.0000004, z: 1}
     - name: Girl 1 L Hand
       parentName: Girl 1 L Forearm
-      position: {x: -0.13889067, y: -0.000000019073486, z: 0}
+      position: {x: -0.012500159, y: -0.0000000017166136, z: 0}
       rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
       scale: {x: 1.0000001, y: 1.0000008, z: 1.000001}
     - name: Girl 1 L Finger0
       parentName: Girl 1 L Hand
-      position: {x: -0.03356678, y: 0.0075289914, z: -0.020712595}
+      position: {x: -0.0030210102, y: 0.0006776092, z: -0.0018641335}
       rotation: {x: 0, y: 0.3826835, z: 0, w: -0.9238795}
       scale: {x: 1, y: 0.9999998, z: 1.0000002}
     - name: Girl 1 L Finger01
       parentName: Girl 1 L Finger0
-      position: {x: -0.038303792, y: 0.000000038146972, z: 0}
+      position: {x: -0.0034473413, y: 0.0000000034332273, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.000001, y: 0.9999996, z: 1.0000004}
     - name: Girl 1 L Finger02
       parentName: Girl 1 L Finger01
-      position: {x: -0.02978157, y: -0.000000009536743, z: 0}
+      position: {x: -0.0026803412, y: -8.583068e-10, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000008, y: 0.99999994, z: 1}
     - name: Girl 1 L Finger1
       parentName: Girl 1 L Hand
-      position: {x: -0.11315593, y: -0.004391785, z: -0.03283911}
+      position: {x: -0.010184034, y: -0.0003952606, z: -0.0029555196}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
     - name: Girl 1 L Finger11
       parentName: Girl 1 L Finger1
-      position: {x: -0.02300167, y: 0.000000076293944, z: -0.0000000047683715}
+      position: {x: -0.0020701503, y: 0.0000000068664545, z: -4.291534e-10}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000001, y: 1.0000005, z: 1}
     - name: Girl 1 L Finger12
       parentName: Girl 1 L Finger11
-      position: {x: -0.019693984, y: 0.000000038146972, z: -0.000000009536743}
+      position: {x: -0.0017724584, y: 0.0000000034332273, z: -8.583068e-10}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1.0000005, z: 1.0000004}
     - name: Girl 1 L Finger2
       parentName: Girl 1 L Hand
-      position: {x: -0.11773662, y: -0.0008145904, z: -0.0062789726}
+      position: {x: -0.010596296, y: -0.00007331314, z: -0.0005651075}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 0.99999994, y: 1.0000002, z: 0.99999994}
     - name: Girl 1 L Finger21
       parentName: Girl 1 L Finger2
-      position: {x: -0.02240097, y: 0, z: 0.0000000047683715}
+      position: {x: -0.0020160873, y: 0, z: 4.291534e-10}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 0.99999994, y: 1.0000002, z: 1.0000004}
     - name: Girl 1 L Finger22
       parentName: Girl 1 L Finger21
-      position: {x: -0.025385933, y: 0, z: 0.0000000047683715}
+      position: {x: -0.0022847338, y: 0, z: 4.291534e-10}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 0.9999998, y: 1.0000002, z: 1.0000001}
     - name: Girl 1 L Finger3
       parentName: Girl 1 L Hand
-      position: {x: -0.11243686, y: 0.0045873257, z: 0.019898815}
+      position: {x: -0.010119317, y: 0.00041285928, z: 0.0017908933}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 0.9999998, y: 1.0000005, z: 0.9999998}
     - name: Girl 1 L Finger31
       parentName: Girl 1 L Finger3
-      position: {x: -0.023215255, y: 0, z: -0.0000000047683715}
+      position: {x: -0.0020893728, y: 0, z: -4.291534e-10}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000001, y: 1.0000006, z: 1.0000005}
     - name: Girl 1 L Finger32
       parentName: Girl 1 L Finger31
-      position: {x: -0.023711357, y: 0.000000114440915, z: -0.0000000047683715}
+      position: {x: -0.002134022, y: 0.000000010299682, z: -4.291534e-10}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000001, y: 1.0000004, z: 1.0000004}
     - name: Girl 1 L Finger4
       parentName: Girl 1 L Hand
-      position: {x: -0.100739054, y: 0.012273941, z: 0.036501005}
+      position: {x: -0.009066515, y: 0.0011046546, z: 0.0032850904}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1.0000005, z: 1.0000002}
     - name: Girl 1 L Finger41
       parentName: Girl 1 L Finger4
-      position: {x: -0.018370781, y: 0, z: 0.000000019073486}
+      position: {x: -0.0016533702, y: 0, z: 0.0000000017166136}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 0.9999996, y: 1, z: 1.0000002}
     - name: Girl 1 L Finger42
       parentName: Girl 1 L Finger41
-      position: {x: -0.017089386, y: -0.000000076293944, z: -0.000000009536743}
+      position: {x: -0.0015380447, y: -0.0000000068664545, z: -8.583068e-10}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1.0000002, z: 1.0000004}
     - name: Girl 1 Neck
       parentName: Girl 1 Spine2
-      position: {x: -0.089885555, y: -0.000052318574, z: -1.4511897e-10}
+      position: {x: -0.0080897, y: -0.0000047086714, z: -1.3060707e-11}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000005, y: 1.0000004, z: 1.0000001}
     - name: Girl 1 Head
       parentName: Girl 1 Neck
-      position: {x: -0.07067344, y: 0, z: -3.6379787e-14}
+      position: {x: -0.0063606096, y: 0, z: -3.2741807e-15}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1.0000001, z: 1.0000001}
     - name: Girl 1 Hair Back
       parentName: Girl 1 Head
-      position: {x: -0.05023018, y: -0.11944783, z: -0.0009045479}
+      position: {x: -0.004520716, y: -0.010750304, z: -0.00008140931}
       rotation: {x: -0.00000011920926, y: 0.00000011920926, z: 0.9723549, w: 0.23350805}
       scale: {x: 1.0000001, y: 1, z: 1.0000002}
     - name: Girl 1 Hair Back02
       parentName: Girl 1 Hair Back
-      position: {x: -0.19074675, y: -0.00018878936, z: -5.2154064e-10}
+      position: {x: -0.017167207, y: -0.000016991042, z: -4.6938654e-11}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
     - name: Girl 1 Hair Front
       parentName: Girl 1 Head
-      position: {x: -0.25735214, y: 0.17058955, z: 0.000359453}
+      position: {x: -0.023161693, y: 0.015353059, z: 0.00003235077}
       rotation: {x: 0.000000119209275, y: -0, z: -0.9430752, w: 0.33257958}
       scale: {x: 1.0000004, y: 1.0000002, z: 1.0000002}
     - name: Girl 1 Hat
       parentName: Girl 1 Head
-      position: {x: -0.21095848, y: -0.08347414, z: -0.0023103282}
+      position: {x: -0.018986262, y: -0.007512672, z: -0.00020792952}
       rotation: {x: -0.00000013411044, y: -0.000000104308114, z: 0.61112964, w: 0.79153055}
       scale: {x: 1.0000001, y: 1, z: 1}
     - name: Girl 1 Jaw
       parentName: Girl 1 Head
-      position: {x: -0.05843681, y: 0.03929933, z: 0.00000005353829}
+      position: {x: -0.0052593127, y: 0.0035369396, z: 0.000000004818446}
       rotation: {x: -0.0000002682209, y: -0.0000008046627, z: -0.8778232, w: 0.478985}
       scale: {x: 1.0000007, y: 1.0000006, z: 1.0000002}
     - name: Girl 1 L Eye
       parentName: Girl 1 Head
-      position: {x: -0.115897976, y: 0.1045951, z: 0.0665017}
+      position: {x: -0.0104308175, y: 0.009413559, z: 0.005985153}
       rotation: {x: -0.00000005960463, y: 0.00000005960463, z: -0.742267, w: 0.67010415}
       scale: {x: 1.0000005, y: 1.0000008, z: 1.0000005}
     - name: Girl 1 L Hair
       parentName: Girl 1 Head
-      position: {x: -0.06450378, y: 0.08970739, z: 0.18648338}
+      position: {x: -0.00580534, y: 0.008073664, z: 0.016783504}
       rotation: {x: 0.000000059604645, y: -0.00000023841858, z: -0.9992919, w: 0.037626714}
       scale: {x: 1.0000001, y: 1.0000002, z: 1.0000004}
     - name: Girl 1 R Eye
       parentName: Girl 1 Head
-      position: {x: -0.115897976, y: 0.104595505, z: -0.06650112}
+      position: {x: -0.0104308175, y: 0.009413595, z: -0.0059851003}
       rotation: {x: -0.00000005960463, y: 0.00000005960463, z: -0.742267, w: 0.67010415}
       scale: {x: 1, y: 1.0000005, z: 1.0000001}
     - name: Girl 1 R Hair
       parentName: Girl 1 Head
-      position: {x: -0.06450378, y: 0.089708425, z: -0.18648292}
+      position: {x: -0.00580534, y: 0.008073758, z: -0.016783463}
       rotation: {x: 0.000000059604645, y: -0.00000023841858, z: -0.9992919, w: 0.037626714}
       scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
     - name: Girl 1 R Clavicle
       parentName: Girl 1 Spine2
-      position: {x: -0.069694445, y: -0.03928261, z: -0.0249951}
+      position: {x: -0.0062725, y: -0.0035354346, z: -0.002249559}
       rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
       scale: {x: 1.0000006, y: 1.0000002, z: 1.0000002}
     - name: Girl 1 R UpperArm
       parentName: Girl 1 R Clavicle
-      position: {x: -0.11944102, y: 0.000000019073486, z: 0}
+      position: {x: -0.010749691, y: 0.0000000017166136, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000001, y: 1.0000004, z: 1.0000005}
     - name: Girl 1 R Forearm
       parentName: Girl 1 R UpperArm
-      position: {x: -0.15553528, y: 0, z: -0.000000076293944}
+      position: {x: -0.013998175, y: 0, z: -0.0000000068664545}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000004, y: 1.0000005, z: 1.0000002}
     - name: Girl 1 R Hand
       parentName: Girl 1 R Forearm
-      position: {x: -0.1388907, y: -0.000000019073486, z: 0}
+      position: {x: -0.012500162, y: -0.0000000017166136, z: 0}
       rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
       scale: {x: 1.0000007, y: 1.0000007, z: 1.0000002}
     - name: Girl 1 R Finger0
       parentName: Girl 1 R Hand
-      position: {x: -0.03356678, y: 0.0075289914, z: 0.020712633}
+      position: {x: -0.0030210102, y: 0.0006776092, z: 0.0018641369}
       rotation: {x: 0, y: 0.38268346, z: 0, w: 0.9238795}
       scale: {x: 1.0000001, y: 1, z: 1.0000001}
     - name: Girl 1 R Finger01
       parentName: Girl 1 R Finger0
-      position: {x: -0.038303792, y: 0.000000038146972, z: 0}
+      position: {x: -0.0034473413, y: 0.0000000034332273, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000005, y: 1.0000002, z: 1.0000004}
     - name: Girl 1 R Finger02
       parentName: Girl 1 R Finger01
-      position: {x: -0.02978157, y: -0.000000009536743, z: -0.000000076293944}
+      position: {x: -0.0026803412, y: -8.583068e-10, z: -0.0000000068664545}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
     - name: Girl 1 R Finger1
       parentName: Girl 1 R Hand
-      position: {x: -0.11315593, y: -0.004391785, z: 0.032839127}
+      position: {x: -0.010184034, y: -0.0003952606, z: 0.0029555212}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1.0000001, z: 0.9999997}
     - name: Girl 1 R Finger11
       parentName: Girl 1 R Finger1
-      position: {x: -0.02300167, y: 0.000000076293944, z: 0.0000000047683715}
+      position: {x: -0.0020701503, y: 0.0000000068664545, z: 4.291534e-10}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000004, y: 1.0000004, z: 1.0000004}
     - name: Girl 1 R Finger12
       parentName: Girl 1 R Finger11
-      position: {x: -0.019694023, y: -0.000000038146972, z: -0.000000009536743}
+      position: {x: -0.0017724619, y: -0.0000000034332273, z: -8.583068e-10}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000001, y: 0.9999998, z: 0.9999997}
     - name: Girl 1 R Finger2
       parentName: Girl 1 R Hand
-      position: {x: -0.117736585, y: -0.0008145904, z: 0.006279001}
+      position: {x: -0.010596292, y: -0.00007331314, z: 0.00056511007}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 0.9999998}
     - name: Girl 1 R Finger21
       parentName: Girl 1 R Finger2
-      position: {x: -0.02240097, y: 0, z: 0}
+      position: {x: -0.0020160873, y: 0, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000004, y: 1.0000004, z: 0.99999994}
     - name: Girl 1 R Finger22
       parentName: Girl 1 R Finger21
-      position: {x: -0.02538601, y: 0, z: -0.0000000047683715}
+      position: {x: -0.0022847408, y: 0, z: -4.291534e-10}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000002, y: 1.0000004, z: 1}
     - name: Girl 1 R Finger3
       parentName: Girl 1 R Hand
-      position: {x: -0.11243686, y: 0.0045873257, z: -0.019898796}
+      position: {x: -0.010119317, y: 0.00041285928, z: -0.0017908916}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
     - name: Girl 1 R Finger31
       parentName: Girl 1 R Finger3
-      position: {x: -0.023215255, y: 0, z: -0.0000000047683715}
+      position: {x: -0.0020893728, y: 0, z: -4.291534e-10}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000002, y: 1.0000001, z: 0.99999994}
     - name: Girl 1 R Finger32
       parentName: Girl 1 R Finger31
-      position: {x: -0.023711357, y: 0, z: 0.000000019073486}
+      position: {x: -0.002134022, y: 0, z: 0.0000000017166136}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
     - name: Girl 1 R Finger4
       parentName: Girl 1 R Hand
-      position: {x: -0.10073902, y: 0.012273941, z: -0.036500987}
+      position: {x: -0.009066511, y: 0.0011046546, z: -0.0032850886}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
     - name: Girl 1 R Finger41
       parentName: Girl 1 R Finger4
-      position: {x: -0.018370818, y: 0, z: 0}
+      position: {x: -0.0016533736, y: 0, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1.0000001, y: 1.0000001, z: 1}
     - name: Girl 1 R Finger42
       parentName: Girl 1 R Finger41
-      position: {x: -0.017089425, y: 0.000000038146972, z: -0.000000019073486}
+      position: {x: -0.0015380481, y: 0.0000000034332273, z: -0.0000000017166136}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 0.99999994}
     armTwist: 0.5
@@ -609,7 +612,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 0.089999996
     rootMotionBoneName: 
     hasTranslationDoF: 1
     hasExtraRoot: 1
@@ -620,6 +623,7 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 1
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 0
   remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 

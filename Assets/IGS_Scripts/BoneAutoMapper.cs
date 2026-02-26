@@ -5,9 +5,9 @@ using System.Collections.Generic;
 public class BoneAutoMapper : MonoBehaviour
 {
     public Transform sourceRoot;   // Bip001 / Slick
-    public Transform targetRoot;   // Any animal
+    public Transform targetRoot;   // Any character
 
-    [ContextMenu("Auto Map Bones (Multi-Animal Safe)")]
+    [ContextMenu("Auto Map Bones (Universal)")]
     public void AutoMapBones()
     {
         if (!sourceRoot || !targetRoot)
@@ -22,11 +22,12 @@ public class BoneAutoMapper : MonoBehaviour
         var sourceBones = sourceRoot.GetComponentsInChildren<Transform>(true);
         var targetBones = targetRoot.GetComponentsInChildren<Transform>(true);
 
-        // Build lookup table for target bones
         Dictionary<string, Transform> targetLookup = new Dictionary<string, Transform>();
 
         foreach (var t in targetBones)
         {
+            if (ShouldIgnore(t.name)) continue;
+
             string clean = CleanBoneName(t.name);
             if (!targetLookup.ContainsKey(clean))
                 targetLookup.Add(clean, t);
@@ -36,6 +37,8 @@ public class BoneAutoMapper : MonoBehaviour
 
         foreach (var s in sourceBones)
         {
+            if (ShouldIgnore(s.name)) continue;
+
             string cleanSource = CleanBoneName(s.name);
 
             if (targetLookup.TryGetValue(cleanSource, out Transform target))
@@ -48,8 +51,8 @@ public class BoneAutoMapper : MonoBehaviour
                 {
                     source = s,
                     target = target,
-                    followPosition = followPosition, // ONLY root
-                    followRotation = true
+                    followPosition = followPosition,
+                    // followRotation = true
                 });
 
                 mapped++;
@@ -59,26 +62,46 @@ public class BoneAutoMapper : MonoBehaviour
         Debug.Log($"✅ Auto-mapped {mapped} bones for {targetRoot.name}");
     }
 
-    // 🔑 THE IMPORTANT PART
+    // ------------------ HELPERS ------------------
+
     string CleanBoneName(string name)
     {
         name = name.ToLower();
 
-        // Remove animation rig prefixes
+        // Remove animation system prefixes
         name = name.Replace("bip001", "");
         name = name.Replace("armature", "");
         name = name.Replace("mixamorig", "");
 
-        // Remove first word prefix (animal name)
-        // Example: "elephant l thigh" → "l thigh"
-        int firstSpace = name.IndexOf(" ");
-        if (firstSpace > 0)
-            name = name.Substring(firstSpace + 1);
+        // Remove numeric character prefixes (boy 1, boy, elephant, etc.)
+        // Keep only the LAST meaningful words
+        string[] parts = name.Split(' ');
+        if (parts.Length > 1)
+        {
+            name = parts[parts.Length - 2] + parts[parts.Length - 1];
+        }
 
-        // Normalize
         name = name.Replace("_", "");
         name = name.Replace(" ", "");
 
         return name;
+    }
+
+    bool ShouldIgnore(string name)
+    {
+        name = name.ToLower();
+
+        // Ignore non-skeleton / accessory bones
+        return
+            name.Contains("mesh") ||
+            name.Contains("root") ||
+            name.Contains("backpack") ||
+            name.Contains("strap") ||
+            name.Contains("hoodie") ||
+            name.Contains("zipper") ||
+            name.Contains("lace") ||
+            name.Contains("shoelace") ||
+            name.Contains("headphone") ||
+            name.Contains("prop");
     }
 }
